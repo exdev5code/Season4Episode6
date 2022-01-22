@@ -1,0 +1,597 @@
+//---------------------------------------------------------------------------------------//
+//     Index  ItemID   Level  Skill    Luck    Opt    ExcOpt	AncOpt    X       Y      Scale     //
+//---------------------------------------------------------------------------------------//
+1
+14	53	0	0	0	0	0	0	0	0	50	// Talisman of Luck
+14	96	0	0	0	0	0	0	0	0	50	// Talisman of Chaos Assembly
+14	54	0	0	0	0	0	0	0	0	50	// Chaos Card
+14	92	0	0	0	0	0	0	0	0	50	// Chaos Card Gold
+14	93	0	0	0	0	0	0	0	0	50	// Chaos Card Rare
+14	95	0	0	0	0	0	0	0	0	50	// Chaos Card Mini
+13	43	0	0	0	0	0	0	0	0	50	// Seal of Ascension
+13	44	0	0	0	0	0	0	0	0	50	// Seal of Wealth
+13	45	0	0	0	0	0	0	0	0	50	// Seal of Sustenance
+13	59	0	0	0	0	0	0	0	0	50	// Seal of Mobility
+13	62	0	0	0	0	0	0	0	0	50	// Seal of Healing
+13	63	0	0	0	0	0	0	0	0	50	// Seal of Divinity
+13	46	0	0	0	0	0	0	0	0	50	// Devil Square Ticket
+13	47	0	0	0	0	0	0	0	0	50	// Blood Castle Ticket
+13	48	0	0	0	0	0	0	0	0	50	// Kalima Ticket
+13	61	0	0	0	0	0	0	0	0	50	// Illusion Temple Ticket
+14	72	0	0	0	0	0	0	0	0	50	// Scroll of Quickness
+14	73	0	0	0	0	0	0	0	0	50	// Scroll of Protection
+14	74	0	0	0	0	0	0	0	0	50	// Scroll of Wrath
+14	75	0	0	0	0	0	0	0	0	50	// Scroll of Wizardry
+14	76	0	0	0	0	0	0	0	0	50	// Scroll of Health
+14	77	0	0	0	0	0	0	0	0	50	// Scroll of Mana
+14	97	0	0	0	0	0	0	0	0	50	// Scroll of Battle
+14	98	0	0	0	0	0	0	0	0	50	// Scroll of Strengthener
+14	78	0	0	0	0	0	0	0	0	50	// Leap of Strength
+14	79	0	0	0	0	0	0	0	0	50	// Leap of Quickness
+14	80	0	0	0	0	0	0	0	0	50	// Leap of Health
+14	81	0	0	0	0	0	0	0	0	50	// Leap of Energy
+14	82	0	0	0	0	0	0	0	0	50	// Leap of Control
+13	64	0	0	0	0	0	0	0	0	50	// Demon
+13	65	0	0	0	0	0	0	0	0	50	// Spirit of Guardian
+13	67	0	0	0	0	0	0	0	0	50	// Rudolf
+13	76	0	0	0	0	0	0	0	0	50	// Panda Ring
+13	80	0	0	0	0	0	0	0	0	50	// Panda Pet
+13	54	0	0	0	0	0	0	0	0	50	// Reset Fruit Strength
+13	55	0	0	0	0	0	0	0	0	50	// Reset Fruit Quickness
+13	56	0	0	0	0	0	0	0	0	50	// Reset Fruit Health
+13	57	0	0	0	0	0	0	0	0	50	// Reset Fruit Energy
+13	58	0	0	0	0	0	0	0	0	50	// Reset Fruit Control
+14	91	0	0	0	0	0	0	0	0	50	// Summoner Card
+14	221	0	0	0	0	0	0	0	0	50	// Zen Coin
+14	222	0	0	0	0	0	0	0	0	50	// Zen Coin
+14	223	0	0	0	0	0	0	0	0	50	// Zen Coin
+
+
+
+
+0	0	13	1	1	7	63	0	2	2	50	// Kris"
+0	1	13	1	1	7	63	0	2	2	50	// Short Sword"
+0	2	13	1	1	7	63	0	2	2	50	// Rapier"
+0	3	13	1	1	7	63	0	2	2	50	// Katana"
+0	4	13	1	1	7	63	0	2	2	50	// Sword of Assassin"
+0	5	13	1	1	7	63	0	2	2	50	// Blade"
+0	6	13	1	1	7	63	0	2	2	50	// Gladius"
+0	7	13	1	1	7	63	0	2	2	50	// Falchion"
+0	8	13	1	1	7	63	0	2	2	50	// Serpent Sword"
+0	9	13	1	1	7	63	0	2	2	50	// Sword of Salamander"
+0	10	13	1	1	7	63	0	2	2	50	// Light Saber"
+0	11	13	1	1	7	63	0	2	2	50	// Legendary Sword"
+0	12	13	1	1	7	63	0	2	2	50	// Heliacal Sword"
+0	13	13	1	1	7	63	0	2	2	50	// Double Blade"
+0	14	13	1	1	7	63	0	2	2	50	// Lightning Sword"
+0	15	13	1	1	7	63	0	2	2	50	// Giant Sword"
+0	16	13	1	1	7	63	0	2	2	50	// Sword of Destruction"
+0	17	13	1	1	7	63	0	2	2	50	// Dark Breaker"
+0	18	13	1	1	7	63	0	2	2	50	// Thunder Blade"
+0	19	13	1	1	7	63	0	2	2	50	// Divine Sword of Archangel"
+0	20	13	1	1	7	63	0	2	2	50	// Knight Blade"
+0	21	13	1	1	7	63	0	2	2	50	// Dark Reign Blade"
+0	22	13	1	1	7	63	0	2	2	50	// Bone Blade"
+0	23	13	1	1	7	63	0	2	2	50	// Explosion Blade"
+0	24	13	1	1	7	63	0	2	2	50	// Daybreak"
+0	25	13	1	1	7	63	0	2	2	50	// Sword Dancer"
+0	26	13	1	1	7	63	0	2	2	50	// Flameberge"
+0	27	13	1	1	7	63	0	2	2	50	// Sword Breaker"
+0	28	13	1	1	7	63	0	2	2	50	// Rune Bastard Sword"
+0	31	13	1	1	7	63	0	2	2	50	// Rune Blade"
+0	40	13	1	1	7	63	0	2	2	50	// Naga Sword"
+0	41	13	1	1	7	63	0	2	2	50	// Storm Sword"
+
+
+
+
+1	0	13	1	1	7	63	0	2	2	50	// Summoner Card
+1	1	13	1	1	7	63	0	2	2	50	// Summoner Card
+1	2	13	1	1	7	63	0	2	2	50	// Summoner Card
+1	3	13	1	1	7	63	0	2	2	50	// Summoner Card
+1	4	13	1	1	7	63	0	2	2	50	// Summoner Card
+1	5	13	1	1	7	63	0	2	2	50	// Summoner Card
+1	6	13	1	1	7	63	0	2	2	50	// Summoner Card
+1	7	13	1	1	7	63	0	2	2	50	// Summoner Card
+1	8	13	1	1	7	63	0	2	2	50	// Summoner Card
+
+
+
+
+2	0	13	1	1	7	63	0	2	2	50	// Summoner Card
+2	1	13	1	1	7	63	0	2	2	50	// Summoner Card
+2	2	13	1	1	7	63	0	2	2	50	// Summoner Card
+2	3	13	1	1	7	63	0	2	2	50	// Summoner Card
+2	4	13	1	1	7	63	0	2	2	50	// Summoner Card
+2	5	13	1	1	7	63	0	2	2	50	// Summoner Card
+2	6	13	1	1	7	63	0	2	2	50	// Summoner Card
+2	7	13	1	1	7	63	0	2	2	50	// Summoner Card
+2	8	13	1	1	7	63	0	2	2	50	// Summoner Card
+2	9	13	1	1	7	63	0	2	2	50	// Summoner Card
+2	10	13	1	1	7	63	0	2	2	50	// Summoner Card
+2	11	13	1	1	7	63	0	2	2	50	// Summoner Card
+2	12	13	1	1	7	63	0	2	2	50	// Summoner Card
+2	13	13	1	1	7	63	0	2	2	50	// Summoner Card
+2	14	13	1	1	7	63	0	2	2	50	// Summoner Card
+2	15	13	1	1	7	63	0	2	2	50	// Summoner Card
+2	16	13	1	1	7	63	0	2	2	50	// Summoner Card
+2	17	13	1	1	7	63	0	2	2	50	// Summoner Card
+2	18	13	1	1	7	63	0	2	2	50	// Summoner Card
+2	20	13	1	1	7	63	0	2	2	50	// Sep Scepter
+
+
+
+
+3	0	13	1	1	7	63	0	2	2	50	// Summoner Card
+3	1	13	1	1	7	63	0	2	2	50	// Summoner Card
+3	2	13	1	1	7	63	0	2	2	50	// Summoner Card
+3	3	13	1	1	7	63	0	2	2	50	// Summoner Card
+3	4	13	1	1	7	63	0	2	2	50	// Summoner Card
+3	5	13	1	1	7	63	0	2	2	50	// Summoner Card
+3	6	13	1	1	7	63	0	2	2	50	// Summoner Card
+3	7	13	1	1	7	63	0	2	2	50	// Summoner Card
+3	8	13	1	1	7	63	0	2	2	50	// Summoner Card
+3	9	13	1	1	7	63	0	2	2	50	// Summoner Card
+3	10	13	1	1	7	63	0	2	2	50	// Summoner Card
+3	11	13	1	1	7	63	0	2	2	50	// Summoner Card
+
+
+
+
+4	0	13	1	1	7	63	0	2	2	50	// Summoner Card
+4	1	13	1	1	7	63	0	2	2	50	// Summoner Card
+4	2	13	1	1	7	63	0	2	2	50	// Summoner Card
+4	3	13	1	1	7	63	0	2	2	50	// Summoner Card
+4	4	13	1	1	7	63	0	2	2	50	// Summoner Card
+4	5	13	1	1	7	63	0	2	2	50	// Summoner Card
+4	6	13	1	1	7	63	0	2	2	50	// Summoner Card
+4	8	13	1	1	7	63	0	2	2	50	// Summoner Card
+4	9	13	1	1	7	63	0	2	2	50	// Summoner Card
+4	10	13	1	1	7	63	0	2	2	50	// Summoner Card
+4	11	13	1	1	7	63	0	2	2	50	// Summoner Card
+4	12	13	1	1	7	63	0	2	2	50	// Summoner Card
+4	13	13	1	1	7	63	0	2	2	50	// Summoner Card
+4	14	13	1	1	7	63	0	2	2	50	// Summoner Card
+4	16	13	1	1	7	63	0	2	2	50	// Summoner Card
+4	17	13	1	1	7	63	0	2	2	50	// Summoner Card
+4	18	13	1	1	7	63	0	2	2	50	// Summoner Card
+4	19	13	1	1	7	63	0	2	2	50	// Summoner Card
+4	20	13	1	1	7	63	0	2	2	50	// Summoner Card
+4	21	13	1	1	7	63	0	2	2	50	// Summoner Card
+4	22	13	1	1	7	63	0	2	2	50	// Summoner Card
+4	23	13	1	1	7	63	0	2	2	50	// Summoner Card
+4	24	13	1	1	7	63	0	2	2	50	// Summoner Card
+4	30	13	1	1	7	63	0	2	2	50	// Draconic Bow
+
+
+
+
+5	0	13	1	1	7	63	0	2	2	50	// Summoner Card
+5	1	13	1	1	7	63	0	2	2	50	// Summoner Card
+5	2	13	1	1	7	63	0	2	2	50	// Summoner Card
+5	3	13	1	1	7	63	0	2	2	50	// Summoner Card
+5	4	13	1	1	7	63	0	2	2	50	// Summoner Card
+5	5	13	1	1	7	63	0	2	2	50	// Summoner Card
+5	6	13	1	1	7	63	0	2	2	50	// Summoner Card
+5	7	13	1	1	7	63	0	2	2	50	// Summoner Card
+5	8	13	1	1	7	63	0	2	2	50	// Summoner Card
+5	9	13	1	1	7	63	0	2	2	50	// Summoner Card
+5	10	13	1	1	7	63	0	2	2	50	// Summoner Card
+5	11	13	1	1	7	63	0	2	2	50	// Summoner Card
+5	12	13	1	1	7	63	0	2	2	50	// Summoner Card
+5	13	13	1	1	7	63	0	2	2	50	// Summoner Card
+5	14	13	1	1	7	63	0	2	2	50	// Summoner Card
+5	15	13	1	1	7	63	0	2	2	50	// Summoner Card
+5	16	13	1	1	7	63	0	2	2	50	// Summoner Card
+5	17	13	1	1	7	63	0	2	2	50	// Summoner Card
+5	18	13	1	1	7	63	0	2	2	50	// Summoner Card
+5	19	13	1	1	7	63	0	2	2	50	// Summoner Card
+5	20	13	1	1	7	63	0	2	2	50	// Summoner Card
+5	21	13	1	1	7	63	0	2	2	50	// Summoner Card
+5	22	13	1	1	7	63	0	2	2	50	// Summoner Card
+5	23	13	1	1	7	63	0	2	2	50	// Summoner Card
+5	30	13	1	1	7	63	0	2	2	50	// Summoner Card
+5	31	13	1	1	7	63	0	2	2	50	// Summoner Card
+5	32	13	1	1	7	63	0	2	2	50	// Summoner Card
+5	33	13	1	1	7	63	0	2	2	50	// Summoner Card
+5	34	13	1	1	7	63	0	2	2	50	// Summoner Card
+5	40	13	1	1	7	63	0	2	2	50	// Apocalypse Staff
+5	41	13	1	1	7	63	0	2	2	50	// Spirit Stick
+
+
+
+
+6	0	13	1	1	7	63	0	2	2	50	// Summoner Card
+6	1	13	1	1	7	63	0	2	2	50	// Summoner Card
+6	2	13	1	1	7	63	0	2	2	50	// Summoner Card
+6	3	13	1	1	7	63	0	2	2	50	// Summoner Card
+6	4	13	1	1	7	63	0	2	2	50	// Summoner Card
+6	5	13	1	1	7	63	0	2	2	50	// Summoner Card
+6	6	13	1	1	7	63	0	2	2	50	// Summoner Card
+6	7	13	1	1	7	63	0	2	2	50	// Summoner Card
+6	8	13	1	1	7	63	0	2	2	50	// Summoner Card
+6	9	13	1	1	7	63	0	2	2	50	// Summoner Card
+6	10	13	1	1	7	63	0	2	2	50	// Summoner Card
+6	11	13	1	1	7	63	0	2	2	50	// Summoner Card
+6	12	13	1	1	7	63	0	2	2	50	// Summoner Card
+6	13	13	1	1	7	63	0	2	2	50	// Summoner Card
+6	14	13	1	1	7	63	0	2	2	50	// Summoner Card
+6	15	13	1	1	7	63	0	2	2	50	// Summoner Card
+6	16	13	1	1	7	63	0	2	2	50	// Summoner Card
+6	17	13	1	1	7	63	0	2	2	50	// Summoner Card
+6	18	13	1	1	7	63	0	2	2	50	// Summoner Card
+6	19	13	1	1	7	63	0	2	2	50	// Summoner Card
+6	20	13	1	1	7	63	0	2	2	50	// Summoner Card
+6	21	13	1	1	7	63	0	2	2	50	// Summoner Card
+6	30	13	1	1	7	63	0	2	2	50	// Embisyeon Shield
+6	31	13	1	1	7	63	0	2	2	50	// Hell Knight Shield
+6	32	13	1	1	7	63	0	2	2	50	// Lazy Wing Shield
+6	33	13	1	1	7	63	0	2	2	50	// Shield of Divine
+
+
+
+
+7	0	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	1	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	2	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	3	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	4	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	5	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	6	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	7	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	8	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	9	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	10	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	11	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	12	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	13	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	14	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	16	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	17	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	18	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	19	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	21	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	22	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	24	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	25	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	26	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	27	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	28	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	29	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	30	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	31	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	33	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	34	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	35	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	36	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	38	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	39	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	40	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	41	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	42	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	43	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	44	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	45	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	46	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	49	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	50	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	51	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	52	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	53	13	1	1	7	63	0	2	2	50	// Summoner Card
+7	60	13	1	1	7	63	0	2	2	50      // Item
+7	61	13	1	1	7	63	0	2	2	50      // Item
+7	62	13	1	1	7	63	0	2	2	50      // Item
+7	63	13	1	1	7	63	0	2	2	50      // Item
+7	64	13	1	1	7	63	0	2	2	50      // Item
+7	65	13	1	1	7	63	0	2	2	50      // Item
+
+
+
+
+8	0	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	1	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	2	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	3	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	4	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	5	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	6	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	7	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	8	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	9	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	10	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	11	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	12	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	13	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	14	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	15	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	16	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	17	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	18	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	19	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	20	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	21	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	22	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	23	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	24	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	25	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	26	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	27	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	28	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	29	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	30	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	31	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	32	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	33	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	34	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	35	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	36	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	37	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	38	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	39	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	40	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	41	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	42	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	43	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	44	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	45	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	46	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	47	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	48	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	49	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	50	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	51	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	52	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	53	13	1	1	7	63	0	2	2	50	// Summoner Card
+8	60	13	1	1	7	63	0	2	2	50      // Item
+8	61	13	1	1	7	63	0	2	2	50      // Item
+8	62	13	1	1	7	63	0	2	2	50      // Item
+8	63	13	1	1	7	63	0	2	2	50      // Item
+8	64	13	1	1	7	63	0	2	2	50      // Item
+8	65	13	1	1	7	63	0	2	2	50      // Item
+
+
+
+
+9	0	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	1	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	2	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	3	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	4	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	5	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	6	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	7	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	8	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	9	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	10	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	11	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	12	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	13	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	14	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	15	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	16	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	17	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	18	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	19	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	20	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	21	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	22	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	23	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	24	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	25	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	26	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	27	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	28	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	29	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	30	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	31	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	32	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	33	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	34	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	35	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	36	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	37	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	38	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	39	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	40	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	41	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	42	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	43	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	44	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	45	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	46	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	47	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	48	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	49	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	50	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	51	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	52	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	53	13	1	1	7	63	0	2	2	50	// Summoner Card
+9	60	13	1	1	7	63	0	2	2	50      // Item
+9	61	13	1	1	7	63	0	2	2	50      // Item
+9	62	13	1	1	7	63	0	2	2	50      // Item
+9	63	13	1	1	7	63	0	2	2	50      // Item
+9	64	13	1	1	7	63	0	2	2	50      // Item
+9	65	13	1	1	7	63	0	2	2	50      // Item
+
+
+
+
+10	0	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	1	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	2	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	3	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	4	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	5	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	6	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	7	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	8	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	9	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	10	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	11	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	12	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	13	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	14	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	15	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	16	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	17	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	18	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	19	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	20	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	21	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	22	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	23	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	24	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	25	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	26	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	27	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	28	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	29	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	30	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	31	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	32	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	33	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	34	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	35	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	36	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	37	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	38	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	39	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	40	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	41	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	42	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	43	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	44	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	45	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	46	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	47	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	48	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	49	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	50	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	51	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	52	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	53	13	1	1	7	63	0	2	2	50	// Summoner Card
+10	60	13	1	1	7	63	0	2	2	50      // Item
+10	61	13	1	1	7	63	0	2	2	50      // Item
+10	62	13	1	1	7	63	0	2	2	50      // Item
+10	63	13	1	1	7	63	0	2	2	50      // Item
+10	64	13	1	1	7	63	0	2	2	50      // Item
+10	65	13	1	1	7	63	0	2	2	50      // Item
+
+
+
+
+11	0	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	1	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	2	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	3	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	4	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	5	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	6	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	7	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	8	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	9	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	10	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	11	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	12	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	13	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	14	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	15	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	16	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	17	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	18	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	19	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	20	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	21	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	22	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	23	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	24	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	25	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	26	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	27	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	28	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	29	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	30	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	31	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	32	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	33	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	34	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	35	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	36	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	37	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	38	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	39	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	40	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	41	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	42	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	43	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	44	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	45	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	46	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	47	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	48	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	49	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	50	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	51	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	52	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	53	13	1	1	7	63	0	2	2	50	// Summoner Card
+11	60	13	1	1	7	63	0	2	2	50      // Item
+11	61	13	1	1	7	63	0	2	2	50      // Item
+11	62	13	1	1	7	63	0	2	2	50      // Item
+11	63	13	1	1	7	63	0	2	2	50      // Item
+11	64	13	1	1	7	63	0	2	2	50      // Item
+11	65	13	1	1	7	63	0	2	2	50      // Item
+
+
+
+
+12	0	13	1	1	7	63	0	2	2	50	// Summoner Card
+12	1	13	1	1	7	63	0	2	2	50	// Summoner Card
+12	2	13	1	1	7	63	0	2	2	50	// Summoner Card
+12	3	13	1	1	7	63	0	2	2	50	// Summoner Card
+12	4	13	1	1	7	63	0	2	2	50	// Summoner Card
+12	5	13	1	1	7	63	0	2	2	50	// Summoner Card
+12	6	13	1	1	7	63	0	2	2	50	// Summoner Card
+13	30	13	1	1	7	63	0	2	2	50	// Summoner Card
+12	36	13	1	1	7	63	0	2	2	50	// Summoner Card
+12	37	13	1	1	7	63	0	2	2	50	// Summoner Card
+12	38	13	1	1	7	63	0	2	2	50	// Summoner Card
+12	39	13	1	1	7	63	0	2	2	50	// Summoner Card
+12	40	13	1	1	7	63	0	2	2	50	// Summoner Card
+12	41	13	1	1	7	63	0	2	2	50	// Summoner Card
+12	42	13	1	1	7	63	0	2	2	50	// Summoner Card
+12	43	13	1	1	7	63	0	2	2	50	// Summoner Card
+12	180	13	1	1	7	63	0	2	2	50	// Summoner Card
+12	181	13	1	1	7	63	0	2	2	50	// Summoner Card
+12	182	13	1	1	7	63	0	2	2	50	// Summoner Card
+12	183	13	1	1	7	63	0	2	2	50	// Summoner Card
+12	184	13	1	1	7	63	0	2	2	50	// Summoner Card
+12	185	13	1	1	7	63	0	2	2	50	// Summoner Card
+12	186	13	1	1	7	63	0	2	2	50	// Summoner Card
+12	187	13	1	1	7	63	0	2	2	50	// Summoner Card
+12	188	13	1	1	7	63	0	2	2	50	// Summoner Card
+12	189	13	1	1	7	63	0	2	2	50	// Summoner Card
+12	190	13	1	1	7	63	0	2	2	50	// Summoner Card
+12	191	13	1	1	7	63	0	2	2	50	// Summoner Card
+12	192	13	1	1	7	63	0	2	2	50	// Summoner Card
+12	193	13	1	1	7	63	0	2	2	50	// Summoner Card
+12	194	13	1	1	7	63	0	2	2	50	// Summoner Card
+13	8	13	1	1	7	63	0	2	2	50	// Summoner Card
+13	9	13	1	1	7	63	0	2	2	50	// Summoner Card
+13	12	13	1	1	7	63	0	2	2	50	// Summoner Card
+13	13	13	1	1	7	63	0	2	2	50	// Summoner Card
+13	21	13	1	1	7	63	0	2	2	50	// Summoner Card
+13	22	13	1	1	7	63	0	2	2	50	// Summoner Card
+13	23	13	1	1	7	63	0	2	2	50	// Summoner Card
+13	24	13	1	1	7	63	0	2	2	50	// Summoner Card
+13	25	13	1	1	7	63	0	2	2	50	// Summoner Card
+13	26	13	1	1	7	63	0	2	2	50	// Summoner Card
+13	27	13	1	1	7	63	0	2	2	50	// Summoner Card
+13	28	13	1	1	7	63	0	2	2	50	// Summoner Card
+
+
+
+
+
+
+
+end

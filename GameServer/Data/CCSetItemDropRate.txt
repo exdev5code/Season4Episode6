@@ -1,0 +1,149 @@
+//----------------------------------------------//
+//         Chaos Castle Ancient Drops           //
+//----------------------------------------------//
+255
+35	30	20	10	5
+
+//-------------------//
+//       Swords      //
+//-------------------//
+0
+	2	2 // Ceto Rapier
+	14	4 // Hyon Lightning Sword
+end
+
+//-------------------//
+//       Maces       //
+//-------------------//
+2
+	1	0 // Warrior Morning Star
+end
+
+//-------------------//
+//       Bows        //
+//-------------------//
+4
+	9	4 // Gaia Golden Crossbow
+	5	4 // Gywen Silver Bow
+end
+
+//-------------------//
+//      Staffs       //
+//-------------------//
+5
+	0	0 // Apollo Skull Staff
+end
+
+//-------------------//
+//      Shields      //
+//-------------------//
+6
+	6	3 // Hera Skull Shield
+	9	3 // Eplete Plate Shield
+end
+
+//-------------------//
+//       Helms       //
+//-------------------//
+7
+	5	0 // Warrior Leather Helm
+	6	2 // Eplete Scale Helm
+	1	4 // Hyon Dragon Helm
+	2	0 // Apollo Pad Helm
+	7	2 // Hera Sphinx Helm
+	3	4 // Anubis Legendary Helm
+	10	0 // Ceto Vine Helm
+	11	1 // Gaia Silk Helm
+	12	2 // Odin Wind Helm
+end
+
+//-------------------//
+//      Armors       //
+//-------------------//
+8
+	5	3 // Warrior Leather Armor
+	0	1 // Hyperion Bronze Armor
+	6	2 // Eplete Scale Armor
+	8	3 // Garuda Brass Armor
+	9	4 // Kantata Plate Armor
+	15	4 // Gaion Storm Crow Armor
+	2	0 // Apollo Pad Armor
+	4	4 // Evis Bone Armor
+	7	3 // Hera Sphinx Armor
+	3	4 // Anubis Legendary Armor
+	11	1 // Gaia Silk Armor
+	12	4 // Odin Wind Armor
+	13	4 // Argo Spirit Armor
+	14	4 // Gywen Guardian Armor
+end
+
+//-------------------//
+//       Pants       //
+//-------------------//
+9
+	5	4 // Warrior Leather Pants
+	0	1 // Hyperion Bronze Pants
+	6	2 // Eplete Scale Pants
+	8	2 // Garuda Brass Pants
+	15	4 // Gaion Storm Crow Pants
+	2	1 // Apollo Pad Pants
+	4	2 // Evis Bone Pants
+	7	3 // Hera Sphinx Pants
+	10	1 // Ceto Vine Pants
+	11	1 // Gaia Silk Pants
+	12	2 // Odin Wind Pants
+	13	3 // Argo Spirit Pants
+end
+
+//-------------------//
+//      Gloves       //
+//-------------------//
+10
+	5	0 // Warrior Leather Gloves
+	8	3 // Garuda Brass Gloves
+	9	4 // Kantata Plate Gloves
+	1	4 // Hyon Dragon Gloves
+	2	3 // Apollo Pad Gloves
+	7	3 // Hera Sphinx Gloves
+	3	4 // Anubis Legendary Gloves
+	10	0 // Ceto Vine Gloves
+	11	2 // Gaia Silk Gloves
+	12	3 // Odin Wind Gloves
+	13	3 // Argo Spirit Gloves
+	14	4 // Gywen Guardian Gloves
+end
+
+//-------------------//
+//       Boots       //
+//-------------------//
+11
+	5	0 // Warrior Leather Boots
+	0	1 // Hyperion Bronze Boots
+	8	4 // Garuda Brass Boots
+	9	4 // Kantata Plate Boots
+	1	4 // Hyon Dragon Boots
+	15	2 // Gaion Storm Crow Boots
+	4	3 // Evis Bone Boots
+	7	4 // Hera Sphinx Boots
+	10	0 // Ceto Vine Boots
+	12	2 // Odin Wind Boots
+	14	4 // Gywen Guardian Boots
+end
+
+//-------------------//
+//     Accessory     //
+//-------------------//
+13
+	8	2 // Warrior Ring Of Ice
+	9	4 // Kantata Ring Of Posion
+	21	1 // Garuda Ring Of Fire
+	22	0 // Anubis Ring Of Earth
+	23	3 // Kantata Ring Of Wind
+	24	4 // Apollo Ring Of Magic
+	12	2 // Eplete Pendant Of Lightning
+	13	4 // Pendant Of Fire
+	25	0 // Apollo Pendant Of Ice
+	26	2 // Evis Pendant Of Wind
+	27	4 // Gaion Pendant Of Water
+	28	3 // Gywen Pendant Of Ability
+end

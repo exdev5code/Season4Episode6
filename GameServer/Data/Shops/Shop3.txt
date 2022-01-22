@@ -1,0 +1,12 @@
+//Shop3 [Lora] Peddler Wandering 184X136
+//
+7 25 0 0 0 1 0 //Light Plate Helm
+8 25 0 0 0 1 0 //Light Plate Helm
+9 25 0 0 0 1 0 //Light Plate Helm
+10 25 0 0 0 1 0 //Light Plate Helm
+11 25 0 0 0 1 0 //Light Plate Helm
+
+2 8 0 0 1 1 0 //scepters
+2 9 0 0 1 1 0 //scepters
+2 10 0 0 1 1 0 //scepters
+end

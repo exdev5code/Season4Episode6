@@ -1,0 +1,79 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Dataserver - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\TEMP\RSPF00E.tmp" with contents
+[
+/nologo /MT /W3 /GX /ZI /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /FR"Release/" /Fp"Release/Dataserver.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"D:\development\Dataserver\Source_DB\DbSet\CharDBSet.cpp"
+"D:\development\Dataserver\Source_DB\protocol.cpp"
+]
+Creating command line "cl.exe @C:\TEMP\RSPF00E.tmp" 
+Creating temporary file "C:\TEMP\RSPF00F.tmp" with contents
+[
+ws2_32.lib /nologo /subsystem:windows /profile /map:"Release/Dataserver.map" /debug /machine:I386 /out:"Release/Dataserver.exe" 
+.\Release\ActiveMng.obj
+.\Release\BadSyntaxChk.obj
+.\Release\BaseDAO.obj
+.\Release\ChildView.obj
+.\Release\CQuery.obj
+.\Release\Dataserver.obj
+.\Release\DelayHandler.obj
+.\Release\DirPath.obj
+.\Release\giocp.obj
+.\Release\LogToFile.obj
+.\Release\MainFrm.obj
+.\Release\MiniDump.obj
+.\Release\MuNameCheck.obj
+.\Release\wsJoinServer.obj
+.\Release\WZIPCheck.obj
+.\Release\WzItemSerial.obj
+.\Release\WZQueue.obj
+.\Release\WZScriptEncode.obj
+.\Release\classdef.obj
+.\Release\logproc.obj
+.\Release\MyWinsockBase.obj
+.\Release\SetItemOption.obj
+.\Release\winutil.obj
+.\Release\WzMemScript.obj
+.\Release\zzzitem.obj
+.\Release\AccountCharDBSet.obj
+.\Release\CastleDBSet.obj
+.\Release\CharDBSet.obj
+.\Release\CharPreviewDBSet.obj
+.\Release\CrywolfDBSet.obj
+.\Release\DBConBase.obj
+.\Release\GSDBSet.obj
+.\Release\ItemExtDbSet.obj
+.\Release\MasterLevelSystemDBSet.obj
+.\Release\OptionDbSet.obj
+.\Release\PeriodItemDBSet.obj
+.\Release\PetDBSet.obj
+.\Release\QuestMonKillDBSet.obj
+.\Release\ServerPrc.obj
+.\Release\WarehouseDBSet.obj
+.\Release\ZenEvenDb.obj
+.\Release\protocol.obj
+.\Release\MapServerManager_DS.obj
+.\Release\StdAfx.obj
+.\Release\Dataserver.res
+]
+Creating command line "link.exe @C:\TEMP\RSPF00F.tmp"
+<h3>Output Window</h3>
+Compiling...
+CharDBSet.cpp
+protocol.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+Dataserver.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

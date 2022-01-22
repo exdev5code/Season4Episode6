@@ -1,0 +1,46 @@
+//Cherry Blossom Box
+
+//============================
+//Map Drop
+//Map	Drop	MinDrop	MaxDrop
+//============================
+0
+0	0	0	1000	//Lorencia
+1	0	0	1000	//Dungeon
+2	0	0	1000	//Devias
+3	0	0	1000	//Noria
+4	0	0	1000	//LostTower
+5	0	0	1000	//Exile
+6	0	0	1000	//Arena
+7	0	0	1000	//Atlans
+8	0	0	1000	//Tarkan
+9	0	0	1000	//DevilSquare
+10	0	0	1000	//Icarus
+end
+
+//=========================================================================
+//Drop Options
+//Name			ZenAmount	ItemType	Index	ItemLvl	DropRate NormDrop	ExcDrop
+//=========================================================================
+1
+"Cherry Blossom Box"	1000000		0	0	 0	 0	 100	  	1
+end
+
+//==================================================================
+//Item Drops
+//Type	Item	MinLvl	MaxLvl	Skill	Luck	Option	Exc	Name
+//==================================================================
+2
+400
+14	85	0	0	0	0	0	0	//Cherry Blossom Wine
+end
+100
+14	86	0	0	0	0	0	0	//Cherry Blossom Rice Cake
+end
+100
+14	87	0	0	0	0	0	0	//Cherry Blossom Flower Petal
+end
+2800
+14	90	0	0	0	0	0	0	//Golden Cherry Blossom Branch
+end
+end

@@ -1,0 +1,55 @@
+// Gem of Secret
+
+//--------------------------------------//
+// Map Drop                             //
+//--------------------------------------//
+0
+//    Map ID   Drop   Minimal DropRate
+	0	0	0	1000	// Lorencia
+	1	0	0	1000	// Dungeon
+	2	0	0	1000	// Devias
+	3	0	0	1000	// Noria
+	4	0	0	1000	// LostTower
+	5	0	0	1000	// Exile
+	6	0	0	1000	// Arena
+	7	0	0	1000	// Atlans
+	8	0	0	1000	// Tarkan
+	9	0	0	1000	// DevilSquare
+	10	0	0	1000	// Icarus
+end
+
+//--------------------------------------//
+// Drop Options                         //
+//--------------------------------------//
+1
+//        Name         ZenAmount    ItemType  Index   ItemLvl DropRate NormDrop ExcDrop
+       "GemOfSecret"	1000000		0	0	 0	 0	 100	  1
+end
+
+//--------------------------------------//
+// Item Drops                           //
+//--------------------------------------//
+2
+//  ItemType  Index  MinLvl MaxLvl    Skill    Luck   Option  Excellent
+
+	13	8	0	9	0	0	1	1	// Excellent Ring of Ice
+	13	9	0	9	0	0	1	1	// Excellent Ring of Poison
+	13	12	0	9	0	0	1	1	// Excellent Pendant of Lighting
+	13	13	0	9	0	0	1	1	// Excellent Pendant of Fire
+	13	21	0	9	0	0	1	1	// Excellent Ring of Fire
+	13	22	0	9	0	0	1	1	// Excellent Ring of Earth
+	13	23	0	9	0	0	1	1	// Excellent Ring of Wind
+	13	25	0	9	0	0	1	1	// Excellent Pendant of Ice
+	13	26	0	9	0	0	1	1	// Excellent Pendant of Wind
+	13	27	0	9	0	0	1	1	// Excellent Pendant of Water
+	13	28	0	9	0	0	1	1	// Excellent Pendant of Ability
+	14 	19 	6 	0 	0 	0 	0	0	// Devil Square Invite +6
+	14 	19 	5 	0 	0 	0 	0	0	// Devil Square Invite +5
+	13 	18 	7 	0 	0 	0 	0	0	// Cloak Of Invisibility +7
+	14 	29 	6 	0 	0 	0 	0	0	// Kalima Symbol +6
+	14 	29 	7 	0 	0 	0 	0	0	// Kalima Symbol +7
+	14 	13	0 	0 	0 	0  	0	0	// Jewel Of Bless 
+	14 	14 	0 	0 	0 	0  	0	0	// Jewel Of Soul
+	12	15	0	0	0	0	0	0	// Jewel of Chaos
+	14	16	0	0	0	0	0	0	// Jewel of Life
+end

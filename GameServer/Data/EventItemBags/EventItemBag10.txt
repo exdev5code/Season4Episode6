@@ -1,0 +1,82 @@
+// Box of Kundun +3
+
+//--------------------------------------//
+// Drop Options                         //
+//--------------------------------------//
+1
+//        Name         ZenAmount    ItemType  Index   ItemLvl DropRate NormDrop ExcDrop
+     "BoxOfKundun3"	  0		0	0	 0	 0	 100	  1
+end
+
+//--------------------------------------//
+// Item Drops                           //
+//--------------------------------------//
+2
+//  ItemType  Index  MinLvl MaxLvl    Skill    Luck   Option  Excellent
+
+10000
+//=========
+//3 ранг вещей
+//=========
+0	11	0	0	1	1	1	1	//Legendary Sword
+0	12	0	0	1	1	1	1	//Heliacal Sword
+0	13	0	0	1	1	1	1	//Double Blade
+0	14	0	0	1	1	1	1	//Lightning Sword
+0	15	0	0	1	1	1	1	//Giant Sword
+1	8	0	0	1	1	1	1	//Crescent Axe
+2	5	0	0	1	1	1	1	//Crystal Sword
+2	6	0	0	1	1	1	1	//Chaos Dragon Axe
+2	7	0	0	1	1	1	1	//Elemental Mace
+2	10	0	0	1	1	1	1	//Great Scepter
+3	9	0	0	1	1	1	1	//Bill of Balrog
+4	5	0	0	1	1	1	1	//Silver Bow
+4	6	0	0	1	1	1	1	//Chaos Nature Bow
+4	13	0	0	1	1	1	1	//Bluewing Crossbow
+4	14	0	0	1	1	1	1	//Aquagold Crossbow
+5	5	0	0	0	1	1	1	//Legendary Staff
+5	3	0	0	0	1	1	1	//Staff of Resurrection
+5	7	0	0	0	1	1	1	//Chaos Lightning Staff
+5	16	0	0	0	1	1	1	//Red Wing Stick
+5	23	0	0	1	1	1	1	//Book of Ghost Phantom
+6	5	0	0	1	1	1	1	//Dragon Slayer Shield
+6	6	0	0	1	1	1	1	//Skull Shield
+6	7	0	0	1	1	1	1	//Spiked Shield
+6	8	0	0	1	1	1	1	//Tower Shield
+7	9	0	0	0	1	1	1	//Plate
+7	7	0	0	0	1	1	1	//Sphinx
+7	13	0	0	0	1	1	1	//Spirit
+7	41	0	0	0	1	1	1	//Ancient
+7	25	0	0	0	1	1	1	//Light Plate
+8	9	0	0	0	1	1	1	//Plate
+8	7	0	0	0	1	1	1	//Sphinx
+8	13	0	0	0	1	1	1	//Spirit
+8	41	0	0	0	1	1	1	//Ancient
+8	25	0	0	0	1	1	1	//Light Plate
+9	9	0	0	0	1	1	1	//Plate
+9	7	0	0	0	1	1	1	//Sphinx
+9	13	0	0	0	1	1	1	//Spirit
+9	41	0	0	0	1	1	1	//Ancient
+9	25	0	0	0	1	1	1	//Light Plate
+10	9	0	0	0	1	1	1	//Plate
+10	7	0	0	0	1	1	1	//Sphinx
+10	13	0	0	0	1	1	1	//Spirit
+10	41	0	0	0	1	1	1	//Ancient
+10	25	0	0	0	1	1	1	//Light Plate
+11	9	0	0	0	1	1	1	//Plate
+11	7	0	0	0	1	1	1	//Sphinx
+11	13	0	0	0	1	1	1	//Spirit
+11	41	0	0	0	1	1	1	//Ancient
+11	25	0	0	0	1	1	1	//Light Plate
+//=========
+// Rings Pendants
+//=========
+13	21	0	0	0	0	1	1	//Anillo de Fuego
+13	22	0	0	0	0	1	1	//Anillo de Tierra
+13	23	0	0	0	0	1	1	//Anillo de Viento
+13	24	0	0	0	0	1	1	//Anillo de Magia
+13	25	0	0	0	0	1	1	//Pendiente de Hielo
+13	26	0	0	0	0	1	1	//Pendiente de Viento
+13	27	0	0	0	0	1	1	//Pendiente de Agua
+13	28	0	0	0	0	1	1	//Pendiente de la Habilidad
+end
+end

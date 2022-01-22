@@ -1,0 +1,172 @@
+//----------------------------------------------//
+//    Number   Index  ItemID    Lvl	Dur     //
+//----------------------------------------------//
+0
+	1	14	13	0	0   // Jewel of Bless
+	2	14	14	0	0   // Jewel of Bless
+	3	12	15	0	0   // Jewel of Chaos
+	4	14	11	0	0   // Box of Luck
+	5	14	11	3	0   // Box of Luck
+	11	12	19	0	0   // Orb of Death Stab
+	12	12	18	0	0   // Orb of Ice Arrow
+	13	12	17	0	0   // Orb of Penetration
+	14	12	16	0	0   // Orb of Fire Slash
+	15	12	14	0	0   // Orb of Greater Fortitude
+	16	12	13	0	0   // Orb of Impale
+	17	12	12	0	0   // Orb of Rageful Blow
+	18	13	2	0	0   // Horn of Uniria
+	19	13	3	0	0   // Horn of Dinorant
+	20	14	16	0	0   // Jewel of Life
+	21	13	0	0	0   // Guardian Angel
+	22	13	1	0	0   // Imp
+	23	14	51	0	0   // Star
+	24	14	11	9	0   // Box of Luck
+	25	14	11	10	0   // Box of Luck
+	26	14	19	0	0   // Devil's Invitation
+	27	14	19	1	0   // Devil's Invitation
+	28	14	19	2	0   // Devil's Invitation
+	29	14	19	3	0   // Devil's Invitation
+	30	14	19	4	0   // Devil's Invitation
+	31	14	11	2	0   // Box of Luck
+	32	14	20	0	0   // Remedy of Love
+	33	14	22	0	0   // Jewel of Creation
+	34	13	15	0	0   // Fruits
+	35	13	15	1	0   // Fruits
+	36	13	15	2	0   // Fruits
+	37	13	15	3	0   // Fruits
+	38	14	11	11	0   // Box of Luck
+	39	14	11	12	0   // Box of Luck
+	40	14	20	1	0   // Remedy of Love
+	41	14	20	2	0   // Remedy of Love
+	42	14	20	3	0   // Remedy of Love
+	43	14	20	4	0   // Remedy of Love
+	44	14	20	5	0   // Remedy of Love
+	45	14	11	8	0   // Box of Luck
+	46	14	41	0	0   // Gemstone
+	47	14	42	0	0   // Jewel of Harmony
+	48	14	44	0	0   // Higher Refining Stone
+	49	14	43	0	0   // Lower Refining Stone
+	50	14	31	0	0   // Jewel of Guardian
+	51	12	30	0	0   // Bundled Jewel of Bless
+	52	12	31	0	0   // Bundled Jewel of Soul
+	53	12	32	0	0   // Red Ribbon Box
+	54	12	33	0	0   // Green Ribbon Box
+	55	12	34	0	0   // Blue Ribbon Box
+	56	12	35	0	0   // Scroll of Fire Scream
+	57	12	44	0	0   // Crystal of Destruction
+	58	12	45	0	0   // Crystal of Multi-Shot
+	59	12	46	0	0   // Crystal of Recovery
+	60	12	47	0	0   // Crystal of Flame Strike
+	61	12	48	0	0   // Scroll of Chaotic Diseier
+	62	12	70	0	0   // Sphere (Mono)
+	63	12	60	0	0   // Seed (Fire)
+	64	12	60	1	0   // Seed (Fire)
+	65	12	60	2	0   // Seed (Fire)
+	66	12	60	3	0   // Seed (Fire)
+	67	12	60	4	0   // Seed (Fire)
+	68	12	60	5	0   // Seed (Fire)
+	69	12	61	0	0   // Seed (Water)
+	70	12	61	1	0   // Seed (Water)
+	71	12	61	2	0   // Seed (Water)
+	72	12	61	3	0   // Seed (Water)
+	73	12	61	4	0   // Seed (Water)
+	74	12	62	0	0   // Seed (Ice)
+	75	12	62	1	0   // Seed (Ice)
+	76	12	62	2	0   // Seed (Ice)
+	77	12	62	3	0   // Seed (Ice)
+	78	12	62	4	0   // Seed (Ice)
+	79	12	63	0	0   // Seed (Wind)
+	80	12	63	1	0   // Seed (Wind)
+	81	12	63	2	0   // Seed (Wind)
+	82	12	63	3	0   // Seed (Wind)
+	83	12	63	4	0   // Seed (Wind)
+	84	12	63	5	0   // Seed (Wind)
+	85	12	64	0	0   // Seed (Lightning)
+	86	12	64	1	0   // Seed (Lightning)
+	87	12	64	2	0   // Seed (Lightning)
+	88	12	64	3	0   // Seed (Lightning)
+	89	12	65	2	0   // Seed (Earth)
+	90	12	100	0	0   // Seed Sphere (Fire)
+	91	12	101	0	0   // êSeed Sphere (Water)
+	92	12	102	0	0   // Seed Sphere (Ice)
+	93	12	103	0	0   // Seed Sphere (Wind)
+	94	12	104	0	0   // Seed Sphere (Lightning)
+	95	12	105	0	0   // Seed Sphere (Earth)
+	96	13	4	0	0   // Dark Horse
+	97	13	5	0	0   // Dark Raven
+	98	13	11	1	0   // Order (Guardian/Life Stone)
+	99	13	14	0	0   // Loch's Feather
+	100	13	18	1	0   // Cloak of Invisibility
+	101	13	20	0	0   // Ring of Wizardry
+	102	13	37	0	0   // Horn of Fenrir
+	103	13	40	0	0   // Jack O'Lantern Ring
+	104	13	51	1	1   // Scroll of Blood
+	105	13	52	0	0   // Flame of Condor
+	106	13	53	0	0   // Feather of Condor
+	107	13	64	0	0   // Demon
+	108	13	65	0	0   // Spirit of Guardian
+	109	14	0	0	3   // Apple
+	110	14	9	0	0   // Ale
+	111	14	21	0	0   // Rena
+	112	14	32	0	0   // Pink Chocolate Box
+	113	14	33	0	0   // Red Chocolate Box
+	114	14	34	0	0   // Blue Chocolate Box
+	115	14	35	0	0   // Small SD Potion
+	116	14	36	0	0   // Medium SD Potion
+	117	14	37	0	0   // Large SD Potion
+	118	14	45	0	0   // Halloween Pumpkin
+	119	14	46	0	0   // Jack O'Lantern Bless Scroll
+	120	14	47	0	0   // Jack O'Lantern Rage Scroll
+	121	14	48	0	0   // Jack O'Lantern Scream Scroll
+	122	14	49	0	0   // Jack O'Lantern Food Scroll
+	123	14	50	0	0   // Jack O'Lantern Drink Scroll
+	124	14	53	0	0   // Talisman of Luck
+	125	14	58	0	0   // Rare Item Ticket1
+	126	14	59	0	0   // Rare Item Ticket2
+	127	14	60	0	0   // Rare Item Ticket3
+	128	14	61	0	0   // Rare Item Ticket4
+	129	14	62	0	0   // Rare Item Ticket5
+	130	14	63	0	0   // Firecracker
+	131	14	65	0	0   // Flame of Death Beam Knight
+	132	14	66	0	0   // Horn of Hell Maine
+	133	14	67	0	0   // Feather of Dark Phoenix
+	134	14	83	0	0   // Rare Item Ticket6
+	135	14	84	0	0   // Cherry Blossom Play-Box
+	136	14	85	0	0   // Cherry Blossom Wine
+	137	14	86	0	0   // Cherry Blossom Rice Cake
+	138	14	87	0	0   // Cherry Blossom Flower Petal
+	139	14	88	0	10  // White Cherry Blossom Branch
+	140	14	89	0	30  // Red Cherry Blossom Branch
+	141	14	90	0	50  // Golden Cherry Blossom Branch
+	142	14	92	0	0   // Chaos Card Gold
+	143	14	93	0	0   // Chaos Card Rare
+	144	14	95	0	0   // Chaos Card Mini
+	145	14	96	0	0   // Talisman of Chaos Assembly
+	146	15	8	0	0   // Scroll of Evil Spirit
+	147	15	9	0	0   // Scroll of Hellfire
+	148	15	10	0	0   // Scroll of Power Wave
+	149	15	11	0	0   // Scroll of Aqua Beam
+	150	15	12	0	0   // Scroll of Cometfall
+	151	15	13	0	0   // Scroll of Inferno
+	152	15	14	0	0   // Scroll of Mass Teleport
+	153	15	15	0	0   // Scroll of Soul Barrier
+	154	15	16	0	0   // Scroll of Decay
+	155	15	17	0	0   // Scroll of Ice Storm
+	156	15	18	0	0   // Scroll of Nova
+	157	15	21	0	0   // Lighting Shock Parchment
+	158	15	22	0	0   // Damage Reflection Parchment
+	159	15	23	0	0   // Berserker Parchment
+	160	15	24	0	0   // Sleep Parchment
+	161	15	26	0	0   // Weakness Parchment
+	162	15	27	0	0   // Innovation Parchment
+	163	15	28	0	0   // Scroll of Wizardry Enchance
+	164	15	29	0	0   // Scroll of Gigantic Storm
+	165	13	10	0	255 // Transformation Ring
+	166	13	10	1	255 // Transformation Ring
+	167	13	10	2	255 // Transformation Ring
+	168	13	10	3	255 // Transformation Ring
+	169	13	10	4	255 // Transformation Ring
+	170	13	10	5	255 // Transformation Ring
+	171	13	67	0	0   // Rudolf
+	172	13	68	0	0   // Snowman Transformation Ring
+end

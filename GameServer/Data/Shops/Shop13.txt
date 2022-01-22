@@ -1,0 +1,11 @@
+// Fireworks Girl
+//Index	Item	   Level	   Durabil.	   Skill	    Luck	 Options	  exe	    Name Item
+14		0		0		255		0		0		0		//Apple
+14		1		0		255		0		0		0		//Small Healing Potion
+14		1		0		255		0		0		0		//Small Healing Potion
+14		2		0		255		0		0		0		//Medium Healing Potion
+14		3		0		255		0		0		0		//Large Healing Potion
+14		4		0		255		0		0		0		//Small Mana Potion
+14		5		0		255		0		0		0		//Medium Mana Potion
+14		6		0		255		0		0		0		//Large Mana Potion
+end

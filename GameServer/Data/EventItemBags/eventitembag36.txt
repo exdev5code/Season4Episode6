@@ -1,0 +1,23 @@
+0
+	0	0	0	1000
+	1	0	0	1000
+	2	0	0	1000
+	3	0	0	1000
+	4	0	0	1000
+	5	0	0	1000
+	6	0	0	1000
+	7	0	0	1000
+	8	0	0	1000
+	9	0	0	1000
+	10	0	0	1000
+end
+
+1
+//	EventName	DropZen	EventItemType	EventItemIndex	EventItemLevel	EventItemDropRate	ItemDropRate	ExItemDropRate
+	"none"	0	0	0	0	0	100	1										
+end
+
+2																					
+//	type	index	minLevel	maxLevel	skill	luck	addoption	exitemflag													
+14	111	0	0	0	0	0	0	//Speculum
+end

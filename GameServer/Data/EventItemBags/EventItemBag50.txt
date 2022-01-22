@@ -1,0 +1,90 @@
+//Cherry Blossom Box x30
+
+//============================
+//Map Drop
+//Map	Drop	MinDrop	MaxDrop
+//============================
+0
+0	0	0	1000	//Lorencia
+1	0	0	1000	//Dungeon
+2	0	0	1000	//Devias
+3	0	0	1000	//Noria
+4	0	0	1000	//LostTower
+5	0	0	1000	//Exile
+6	0	0	1000	//Arena
+7	0	0	1000	//Atlans
+8	0	0	1000	//Tarkan
+9	0	0	1000	//DevilSquare
+10	0	0	1000	//Icarus
+end
+
+//=========================================================================
+//Drop Options
+//Name			ZenAmount	ItemType	Index	ItemLvl	DropRate NormDrop	ExcDrop
+//=========================================================================
+1
+"Cherry Blossom Box"	1000000		0	0	 0	 0	 100	  	1
+end
+
+//==================================================================
+//Item Drops
+//Type	Item	MinLvl	MaxLvl	Skill	Luck	Option	Exc	Name
+//==================================================================
+2
+10000
+//=========
+//4 ранг вещей
+//=========
+0	16	0	0	1	1	1	1	//Sword of Destruction
+0	17	0	0	1	1	1	1	//Dark Breaker
+0	18	0	0	1	1	1	1	//Thunder Blade
+0	19	0	0	1	1	1	1	//Divine Sword of Archangel
+0	31	0	0	1	1	1	1	//Rune Blade
+2	11	0	0	1	1	1	1	//Lord Scepter
+2	12	0	0	1	1	1	1	//Great Lord Scepter
+2	13	0	0	1	1	1	1	//Divine Scepter of Archangel
+3	10	0	0	1	1	1	1	//Dragon Spear
+4	16	0	0	1	1	1	1	//Saint Crossbow
+4	17	0	0	1	1	1	1	//Celestial Bow
+4	18	0	0	1	1	1	1	//Divine Crossbow of Archangel
+4	19	0	0	1	1	1	1	//Great Reign Crossbow
+5	8	0	0	0	1	1	1	//Staff of Destruction
+5	9	0	0	0	1	1	1	//Dragon Soul Staff
+5	10	0	0	0	1	1	1	//Divine Staff of Archangel
+5	17	0	0	0	1	1	1	//Ancient Stick
+6	9	0	0	1	1	1	1	//Plate Shield
+6	10	0	0	1	1	1	1	//Large Round Shield
+6	11	0	0	1	1	1	1	//Serpent Shield
+6	12	0	0	1	1	1	1	//Bronze Shield
+6	14	0	0	1	1	1	1	//Legendary Shield
+7	1	0	0	0	1	1	1	//Dragon
+7	3	0	0	0	1	1	1	//Legendary
+7	14	0	0	0	1	1	1	//Guardian
+7	42	0	0	0	1	1	1	//Black Rose
+7	26	0	0	0	1	1	1	//Adamantine
+8	1	0	0	0	1	1	1	//Dragon
+8	3	0	0	0	1	1	1	//Legendary
+8	14	0	0	0	1	1	1	//Guardian
+8	42	0	0	0	1	1	1	//Black Rose
+8	15	0	0	0	1	1	1	//Storm Crow	MG
+8	26	0	0	0	1	1	1	//Adamantine
+9	1	0	0	0	1	1	1	//Dragon
+9	3	0	0	0	1	1	1	//Legendary
+9	14	0	0	0	1	1	1	//Guardian
+9	42	0	0	0	1	1	1	//Black Rose
+9	15	0	0	0	1	1	1	//Storm Crow	MG
+9	26	0	0	0	1	1	1	//Adamantine
+10	1	0	0	0	1	1	1	//Dragon
+10	3	0	0	0	1	1	1	//Legendary
+10	14	0	0	0	1	1	1	//Guardian
+10	42	0	0	0	1	1	1	//Black Rose
+10	15	0	0	0	1	1	1	//Storm Crow	MG
+10	26	0	0	0	1	1	1	//Adamantine
+11	1	0	0	0	1	1	1	//Dragon
+11	3	0	0	0	1	1	1	//Legendary
+11	14	0	0	0	1	1	1	//Guardian
+11	42	0	0	0	1	1	1	//Black Rose
+11	15	0	0	0	1	1	1	//Storm Crow	MG
+11	26	0	0	0	1	1	1	//Adamantine
+end
+end

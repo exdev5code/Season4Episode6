@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{F93725EB-516B-4FAC-8C72-88AFBD7A370A}</ProjectGuid>
+    <RootNamespace>ExClient</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <TargetName>CMain</TargetName>
+    <OutDir>..\..\..\Clients</OutDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>TurnOffAllWarnings</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <AdditionalIncludeDirectories>E:\Development\Season4\Client\glut-3.7.6-bin;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="3DCamera.cpp" />
+    <ClCompile Include="AntiCheatPlus.cpp" />
+    <ClCompile Include="BattleMode.cpp" />
+    <ClCompile Include="Bow.cpp" />
+    <ClCompile Include="ChatWnd.cpp" />
+    <ClCompile Include="AntiHack.cpp" />
+    <ClCompile Include="Configs.cpp" />
+    <ClCompile Include="Connect.cpp" />
+    <ClCompile Include="ConnectEx.cpp" />
+    <ClCompile Include="Console.cpp" />
+    <ClCompile Include="Control.cpp" />
+    <ClCompile Include="DrawTime.cpp" />
+    <ClCompile Include="DumpDB.cpp" />
+    <ClCompile Include="Effect.cpp" />
+    <ClCompile Include="Fix.cpp" />
+    <ClCompile Include="GameCharacter.cpp" />
+    <ClCompile Include="Glow.cpp" />
+    <ClCompile Include="Graphics.cpp" />
+    <ClCompile Include="Interface.cpp" />
+    <ClCompile Include="InterfaceOld.cpp" />
+    <ClCompile Include="Items.cpp" />
+    <ClCompile Include="JewelsBank.cpp" />
+    <ClCompile Include="LoadGlow.cpp" />
+    <ClCompile Include="LoadItem.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="MakePreviewCharSet.cpp" />
+    <ClCompile Include="Maps.cpp" />
+    <ClCompile Include="Message.cpp" />
+    <ClCompile Include="MiniMap.cpp" />
+    <ClCompile Include="Monster.cpp" />
+    <ClCompile Include="MonsterHPBar.cpp" />
+    <ClCompile Include="NewHpBar.cpp" />
+    <ClCompile Include="Pets.cpp" />
+    <ClCompile Include="Protocol.cpp" />
+    <ClCompile Include="RageSystem.cpp" />
+    <ClCompile Include="Security.cpp" />
+    <ClCompile Include="SocketItem.cpp" />
+    <ClCompile Include="Splash.cpp" />
+    <ClCompile Include="Time.cpp" />
+    <ClCompile Include="TMemory.cpp" />
+    <ClCompile Include="ToolKit.cpp" />
+    <ClCompile Include="User.cpp" />
+    <ClCompile Include="Utilits.cpp" />
+    <ClCompile Include="Wings.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="3DCamera.h" />
+    <ClInclude Include="AntiCheatPlus.h" />
+    <ClInclude Include="BattleMode.h" />
+    <ClInclude Include="Bow.h" />
+    <ClInclude Include="ChatWnd.h" />
+    <ClInclude Include="AntiHack.h" />
+    <ClInclude Include="Configs.h" />
+    <ClInclude Include="Connect.h" />
+    <ClInclude Include="ConnectEx.h" />
+    <ClInclude Include="Console.h" />
+    <ClInclude Include="Control.h" />
+    <ClInclude Include="Defines.h" />
+    <ClInclude Include="dirent.h" />
+    <ClInclude Include="DrawTime.h" />
+    <ClInclude Include="Effect.h" />
+    <ClInclude Include="Fix.h" />
+    <ClInclude Include="GameCharacter.h" />
+    <ClInclude Include="glext.h" />
+    <ClInclude Include="Glow.h" />
+    <ClInclude Include="Graphics.h" />
+    <ClInclude Include="Interface.h" />
+    <ClInclude Include="InterfaceOld.h" />
+    <ClInclude Include="Header.h" />
+    <ClInclude Include="Items.h" />
+    <ClInclude Include="JewelsBank.h" />
+    <ClInclude Include="LoadGlow.h" />
+    <ClInclude Include="LoadItem.h" />
+    <ClInclude Include="MakePreviewCharSet.h" />
+    <ClInclude Include="Maps.h" />
+    <ClInclude Include="Message.h" />
+    <ClInclude Include="MiniMap.h" />
+    <ClInclude Include="Monster.h" />
+    <ClInclude Include="MonsterHPBar.h" />
+    <ClInclude Include="NewHpBar.h" />
+    <ClInclude Include="Pets.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="Protocol.h" />
+    <ClInclude Include="RageSystem.h" />
+    <ClInclude Include="readscript.h" />
+    <ClInclude Include="Security.h" />
+    <ClInclude Include="SocketItem.h" />
+    <ClInclude Include="Splash.h" />
+    <ClInclude Include="StdAfx.h" />
+    <ClInclude Include="Time.h" />
+    <ClInclude Include="TMemory.h" />
+    <ClInclude Include="ToolKit.h" />
+    <ClInclude Include="User.h" />
+    <ClInclude Include="Utilits.h" />
+    <ClInclude Include="Wings.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Logs.ini" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

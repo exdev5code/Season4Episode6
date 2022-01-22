@@ -1,0 +1,1433 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="CHSCS|Win32">
+      <Configuration>CHSCS</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="CHS|Win32">
+      <Configuration>CHS</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="ENGCS|Win32">
+      <Configuration>ENGCS</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="ENG|Win32">
+      <Configuration>ENG</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="JPNCS|Win32">
+      <Configuration>JPNCS</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="JPN|Win32">
+      <Configuration>JPN</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="KORCS|Win32">
+      <Configuration>KORCS</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="KOR|Win32">
+      <Configuration>KOR</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="PHICS|Win32">
+      <Configuration>PHICS</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="PHI|Win32">
+      <Configuration>PHI</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="TAICS|Win32">
+      <Configuration>TAICS</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="TAI|Win32">
+      <Configuration>TAI</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="VTMCS|Win32">
+      <Configuration>VTMCS</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="VTM|Win32">
+      <Configuration>VTM</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <SccProjectName />
+    <SccLocalPath />
+    <ProjectGuid>{A6CE1B57-B053-D6B8-4C96-0C827470D542}</ProjectGuid>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='ENG|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='ENGCS|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='KOR|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='KORCS|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='CHS|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='CHSCS|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='VTM|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='VTMCS|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='JPN|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='JPNCS|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='TAI|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='TAICS|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='PHI|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='PHICS|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='ENG|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='ENGCS|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='KOR|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='KORCS|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='CHS|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='CHSCS|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='VTM|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='VTMCS|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='JPN|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='JPNCS|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='TAI|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='TAICS|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='PHI|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='PHICS|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='PHICS|Win32'">
+    <OutDir>.\GameServer___Win32_PHICS\</OutDir>
+    <IntDir>.\GameServer___Win32_PHICS\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='PHI|Win32'">
+    <OutDir>.\GameServer___Win32_PHI\</OutDir>
+    <IntDir>.\GameServer___Win32_PHI\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='TAICS|Win32'">
+    <OutDir>.\GameServer___Win32_TAICS\</OutDir>
+    <IntDir>.\GameServer___Win32_TAICS\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='TAI|Win32'">
+    <OutDir>.\GameServer___Win32_TAI\</OutDir>
+    <IntDir>.\GameServer___Win32_TAI\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='JPNCS|Win32'">
+    <OutDir>.\GameServer___Win32_JPNCS\</OutDir>
+    <IntDir>.\GameServer___Win32_JPNCS\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='JPN|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>.\GameServer___Win32_JPN\</OutDir>
+    <IntDir>.\GameServer___Win32_JPN\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='VTMCS|Win32'">
+    <OutDir>.\GameServer___Win32_VTMCS\</OutDir>
+    <IntDir>.\GameServer___Win32_VTMCS\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='VTM|Win32'">
+    <OutDir>.\GameServer___Win32_VTM\</OutDir>
+    <IntDir>.\GameServer___Win32_VTM\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='CHSCS|Win32'">
+    <OutDir>.\GameServer___Win32_CHSCS\</OutDir>
+    <IntDir>.\GameServer___Win32_CHSCS\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='CHS|Win32'">
+    <OutDir>.\GameServer___Win32_CHS\</OutDir>
+    <IntDir>.\GameServer___Win32_CHS\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='KORCS|Win32'">
+    <OutDir>.\GameServer___Win32_KORCS\</OutDir>
+    <IntDir>.\GameServer___Win32_KORCS\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='KOR|Win32'">
+    <OutDir>.\GameServer___Win32_KOR\</OutDir>
+    <IntDir>.\GameServer___Win32_KOR\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='ENGCS|Win32'">
+    <OutDir>.\GameServer___Win32_ENGCS\</OutDir>
+    <IntDir>.\GameServer___Win32_ENGCS\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='ENG|Win32'">
+    <OutDir>.\GameServer___Win32_ENG\</OutDir>
+    <IntDir>.\GameServer___Win32_ENG\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='PHICS|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <Optimization>Disabled</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;GS_CASTLE;INTERNATIONAL_PHILIPPINES;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerOutput>All</AssemblerOutput>
+      <AssemblerListingLocation>.\GameServer___Win32_PHICS\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\GameServer___Win32_PHICS\GameServer.pch</PrecompiledHeaderOutputFile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>stdafx.h</PrecompiledHeaderFile>
+      <ObjectFileName>.\GameServer___Win32_PHICS\</ObjectFileName>
+      <ProgramDataBaseFileName>.\GameServer___Win32_PHICS\</ProgramDataBaseFileName>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\GameServer___Win32_PHICS\GameServer.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x280a</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\GameServer___Win32_PHICS\GameServer.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <IgnoreSpecificDefaultLibraries>LIBC;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <OutputFile>.\GameServer___Win32_PHICS\GameServer.exe</OutputFile>
+      <AdditionalDependencies>ws2_32.lib;odbc32.lib;odbccp32.lib;mumsg.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalOptions> /MAPINFO:EXPORTS  /MAPINFO:LINES </AdditionalOptions>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='PHI|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <Optimization>Disabled</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;INTERNATIONAL_PHILIPPINES;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerOutput>All</AssemblerOutput>
+      <AssemblerListingLocation>.\GameServer___Win32_PHI\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\GameServer___Win32_PHI\GameServer.pch</PrecompiledHeaderOutputFile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>stdafx.h</PrecompiledHeaderFile>
+      <ObjectFileName>.\GameServer___Win32_PHI\</ObjectFileName>
+      <ProgramDataBaseFileName>.\GameServer___Win32_PHI\</ProgramDataBaseFileName>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\GameServer___Win32_PHI\GameServer.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x280a</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\GameServer___Win32_PHI\GameServer.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <IgnoreSpecificDefaultLibraries>LIBC;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <OutputFile>.\GameServer___Win32_PHI\GameServer.exe</OutputFile>
+      <AdditionalDependencies>ws2_32.lib;odbc32.lib;odbccp32.lib;mumsg.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalOptions> /MAPINFO:EXPORTS  /MAPINFO:LINES </AdditionalOptions>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='TAICS|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <Optimization>Disabled</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;GS_CASTLE;INTERNATIONAL_TAIWAN;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerOutput>All</AssemblerOutput>
+      <AssemblerListingLocation>.\GameServer___Win32_TAICS\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\GameServer___Win32_TAICS\GameServer.pch</PrecompiledHeaderOutputFile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>stdafx.h</PrecompiledHeaderFile>
+      <ObjectFileName>.\GameServer___Win32_TAICS\</ObjectFileName>
+      <ProgramDataBaseFileName>.\GameServer___Win32_TAICS\</ProgramDataBaseFileName>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\GameServer___Win32_TAICS\GameServer.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x280a</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\GameServer___Win32_TAICS\GameServer.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <IgnoreSpecificDefaultLibraries>LIBC;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <OutputFile>.\GameServer___Win32_TAICS\GameServer.exe</OutputFile>
+      <AdditionalDependencies>ws2_32.lib;odbc32.lib;odbccp32.lib;mumsg.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalOptions> /MAPINFO:EXPORTS  /MAPINFO:LINES </AdditionalOptions>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='TAI|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <Optimization>Disabled</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;INTERNATIONAL_TAIWAN;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerOutput>All</AssemblerOutput>
+      <AssemblerListingLocation>.\GameServer___Win32_TAI\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\GameServer___Win32_TAI\GameServer.pch</PrecompiledHeaderOutputFile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>stdafx.h</PrecompiledHeaderFile>
+      <ObjectFileName>.\GameServer___Win32_TAI\</ObjectFileName>
+      <ProgramDataBaseFileName>.\GameServer___Win32_TAI\</ProgramDataBaseFileName>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\GameServer___Win32_TAI\GameServer.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x280a</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\GameServer___Win32_TAI\GameServer.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <IgnoreSpecificDefaultLibraries>LIBC;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <OutputFile>.\GameServer___Win32_TAI\GameServer.exe</OutputFile>
+      <AdditionalDependencies>ws2_32.lib;odbc32.lib;odbccp32.lib;mumsg.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalOptions> /MAPINFO:EXPORTS  /MAPINFO:LINES </AdditionalOptions>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='JPNCS|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <Optimization>Disabled</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>TurnOffAllWarnings</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;GS_CASTLE;INTERNATIONAL_JAPAN;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerOutput>All</AssemblerOutput>
+      <AssemblerListingLocation>.\GameServer___Win32_JPNCS\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\GameServer___Win32_JPNCS\GameServer.pch</PrecompiledHeaderOutputFile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>stdafx.h</PrecompiledHeaderFile>
+      <ObjectFileName>.\GameServer___Win32_JPNCS\</ObjectFileName>
+      <ProgramDataBaseFileName>.\GameServer___Win32_JPNCS\</ProgramDataBaseFileName>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\GameServer___Win32_JPNCS\GameServer.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x280a</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\GameServer___Win32_JPNCS\GameServer.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <IgnoreSpecificDefaultLibraries>LIBC;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <OutputFile>.\GameServer___Win32_JPNCS\GameServer.exe</OutputFile>
+      <AdditionalDependencies>ws2_32.lib;odbc32.lib;odbccp32.lib;mumsg.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalOptions> /MAPINFO:EXPORTS</AdditionalOptions>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='JPN|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <Optimization>Disabled</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level2</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;INTERNATIONAL_JAPAN;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerOutput>All</AssemblerOutput>
+      <AssemblerListingLocation>.\GameServer___Win32_JPN\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\GameServer___Win32_JPN\GameServer.pch</PrecompiledHeaderOutputFile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>stdafx.h</PrecompiledHeaderFile>
+      <ObjectFileName>.\GameServer___Win32_JPN\</ObjectFileName>
+      <ProgramDataBaseFileName>.\GameServer___Win32_JPN\</ProgramDataBaseFileName>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\GameServer___Win32_JPN\GameServer.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x280a</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\GameServer___Win32_JPN\GameServer.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <IgnoreSpecificDefaultLibraries>LIBC;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <AdditionalDependencies>ws2_32.lib;odbc32.lib;odbccp32.lib;mumsg.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalOptions> /MAPINFO:EXPORTS</AdditionalOptions>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='VTMCS|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <Optimization>Disabled</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;GS_CASTLE;INTERNATIONAL_VIETNAM;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerOutput>All</AssemblerOutput>
+      <AssemblerListingLocation>.\GameServer___Win32_VTMCS\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\GameServer___Win32_VTMCS\GameServer.pch</PrecompiledHeaderOutputFile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>stdafx.h</PrecompiledHeaderFile>
+      <ObjectFileName>.\GameServer___Win32_VTMCS\</ObjectFileName>
+      <ProgramDataBaseFileName>.\GameServer___Win32_VTMCS\</ProgramDataBaseFileName>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\GameServer___Win32_VTMCS\GameServer.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x280a</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\GameServer___Win32_VTMCS\GameServer.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <IgnoreSpecificDefaultLibraries>LIBC;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <OutputFile>.\GameServer___Win32_VTMCS\GameServer.exe</OutputFile>
+      <AdditionalDependencies>ws2_32.lib;odbc32.lib;odbccp32.lib;mumsg.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalOptions> /MAPINFO:EXPORTS  /MAPINFO:LINES </AdditionalOptions>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='VTM|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <Optimization>Disabled</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;INTERNATIONAL_VIETNAM;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerOutput>All</AssemblerOutput>
+      <AssemblerListingLocation>.\GameServer___Win32_VTM\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\GameServer___Win32_VTM\GameServer.pch</PrecompiledHeaderOutputFile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>stdafx.h</PrecompiledHeaderFile>
+      <ObjectFileName>.\GameServer___Win32_VTM\</ObjectFileName>
+      <ProgramDataBaseFileName>.\GameServer___Win32_VTM\</ProgramDataBaseFileName>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\GameServer___Win32_VTM\GameServer.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x280a</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\GameServer___Win32_VTM\GameServer.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <IgnoreSpecificDefaultLibraries>LIBC;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <OutputFile>.\GameServer___Win32_VTM\GameServer.exe</OutputFile>
+      <AdditionalDependencies>ws2_32.lib;odbc32.lib;odbccp32.lib;mumsg.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalOptions> /MAPINFO:EXPORTS  /MAPINFO:LINES </AdditionalOptions>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='CHSCS|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <Optimization>Disabled</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;GS_CASTLE;INTERNATIONAL_CHINA;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerOutput>All</AssemblerOutput>
+      <AssemblerListingLocation>.\GameServer___Win32_CHSCS\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\GameServer___Win32_CHSCS\GameServer.pch</PrecompiledHeaderOutputFile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>stdafx.h</PrecompiledHeaderFile>
+      <ObjectFileName>.\GameServer___Win32_CHSCS\</ObjectFileName>
+      <ProgramDataBaseFileName>.\GameServer___Win32_CHSCS\</ProgramDataBaseFileName>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\GameServer___Win32_CHSCS\GameServer.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x280a</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\GameServer___Win32_CHSCS\GameServer.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <IgnoreSpecificDefaultLibraries>LIBC;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <OutputFile>.\GameServer___Win32_CHSCS\GameServer.exe</OutputFile>
+      <AdditionalDependencies>ws2_32.lib;odbc32.lib;odbccp32.lib;mumsg.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalOptions> /MAPINFO:EXPORTS  /MAPINFO:LINES </AdditionalOptions>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='CHS|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <Optimization>Disabled</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;INTERNATIONAL_CHINA;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerOutput>All</AssemblerOutput>
+      <AssemblerListingLocation>.\GameServer___Win32_CHS\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\GameServer___Win32_CHS\GameServer.pch</PrecompiledHeaderOutputFile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>stdafx.h</PrecompiledHeaderFile>
+      <ObjectFileName>.\GameServer___Win32_CHS\</ObjectFileName>
+      <ProgramDataBaseFileName>.\GameServer___Win32_CHS\</ProgramDataBaseFileName>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\GameServer___Win32_CHS\GameServer.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x280a</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\GameServer___Win32_CHS\GameServer.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <IgnoreSpecificDefaultLibraries>LIBC;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <OutputFile>.\GameServer___Win32_CHS\GameServer.exe</OutputFile>
+      <AdditionalDependencies>ws2_32.lib;odbc32.lib;odbccp32.lib;mumsg.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalOptions> /MAPINFO:EXPORTS  /MAPINFO:LINES </AdditionalOptions>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='KORCS|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <Optimization>Disabled</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;GS_CASTLE;INTERNATIONAL_KOREAN;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerOutput>All</AssemblerOutput>
+      <AssemblerListingLocation>.\GameServer___Win32_KORCS\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\GameServer___Win32_KORCS\GameServer.pch</PrecompiledHeaderOutputFile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>stdafx.h</PrecompiledHeaderFile>
+      <ObjectFileName>.\GameServer___Win32_KORCS\</ObjectFileName>
+      <ProgramDataBaseFileName>.\GameServer___Win32_KORCS\</ProgramDataBaseFileName>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\GameServer___Win32_KORCS\GameServer.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x280a</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\GameServer___Win32_KORCS\GameServer.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <IgnoreSpecificDefaultLibraries>LIBC;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <OutputFile>.\GameServer___Win32_KORCS\GameServer.exe</OutputFile>
+      <AdditionalDependencies>ws2_32.lib;odbc32.lib;odbccp32.lib;mumsg.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalOptions> /MAPINFO:EXPORTS  /MAPINFO:LINES </AdditionalOptions>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='KOR|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <Optimization>Disabled</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;INTERNATIONAL_KOREAN;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerOutput>All</AssemblerOutput>
+      <AssemblerListingLocation>.\GameServer___Win32_KOR\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\GameServer___Win32_KOR\GameServer.pch</PrecompiledHeaderOutputFile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>stdafx.h</PrecompiledHeaderFile>
+      <ObjectFileName>.\GameServer___Win32_KOR\</ObjectFileName>
+      <ProgramDataBaseFileName>.\GameServer___Win32_KOR\</ProgramDataBaseFileName>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\GameServer___Win32_KOR\GameServer.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x280a</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\GameServer___Win32_KOR\GameServer.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <IgnoreSpecificDefaultLibraries>LIBC;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <OutputFile>.\GameServer___Win32_KOR\GameServer.exe</OutputFile>
+      <AdditionalDependencies>ws2_32.lib;odbc32.lib;odbccp32.lib;mumsg.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalOptions> /MAPINFO:EXPORTS  /MAPINFO:LINES </AdditionalOptions>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='ENGCS|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <Optimization>Disabled</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;GS_CASTLE;INTERNATIONAL_ENGLISH;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerOutput>All</AssemblerOutput>
+      <AssemblerListingLocation>.\GameServer___Win32_ENGCS\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\GameServer___Win32_ENGCS\GameServer.pch</PrecompiledHeaderOutputFile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>stdafx.h</PrecompiledHeaderFile>
+      <ObjectFileName>.\GameServer___Win32_ENGCS\</ObjectFileName>
+      <ProgramDataBaseFileName>.\GameServer___Win32_ENGCS\</ProgramDataBaseFileName>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\GameServer___Win32_ENGCS\GameServer.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x280a</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\GameServer___Win32_ENGCS\GameServer.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <IgnoreSpecificDefaultLibraries>LIBC;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <OutputFile>.\GameServer___Win32_ENGCS\GameServer.exe</OutputFile>
+      <AdditionalDependencies>ws2_32.lib;odbc32.lib;odbccp32.lib;mumsg.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalOptions> /MAPINFO:EXPORTS  /MAPINFO:LINES </AdditionalOptions>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='ENG|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <Optimization>Disabled</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;INTERNATIONAL_ENGLISH;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerOutput>All</AssemblerOutput>
+      <AssemblerListingLocation>.\GameServer___Win32_ENG\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\GameServer___Win32_ENG\GameServer.pch</PrecompiledHeaderOutputFile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>stdafx.h</PrecompiledHeaderFile>
+      <ObjectFileName>.\GameServer___Win32_ENG\</ObjectFileName>
+      <ProgramDataBaseFileName>.\GameServer___Win32_ENG\</ProgramDataBaseFileName>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\GameServer___Win32_ENG\GameServer.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x280a</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\GameServer___Win32_ENG\GameServer.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <IgnoreSpecificDefaultLibraries>LIBC;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <OutputFile>.\GameServer___Win32_ENG\GameServer.exe</OutputFile>
+      <AdditionalDependencies>ws2_32.lib;odbc32.lib;odbccp32.lib;mumsg.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalOptions> /MAPINFO:EXPORTS  /MAPINFO:LINES </AdditionalOptions>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="AntiCheatPlus.cpp" />
+    <ClCompile Include="AntiHack.cpp" />
+    <ClCompile Include="BalanceSystem.cpp" />
+    <ClCompile Include="BMQuest.cpp" />
+    <ClCompile Include="ChaosMixManager.cpp" />
+    <ClCompile Include="ComboCustom.cpp" />
+    <ClCompile Include="Commands.cpp" />
+    <ClCompile Include="Configs.cpp" />
+    <ClCompile Include="ConnectEx.cpp" />
+    <ClCompile Include="CreditDonate.cpp" />
+    <ClCompile Include="CustomNpc.cpp" />
+    <ClCompile Include="DropEvent.cpp" />
+    <ClCompile Include="DropZenManager.cpp" />
+    <ClCompile Include="DuelManager.cpp" />
+    <ClCompile Include="Experience.cpp" />
+    <ClCompile Include="ExQuestSystem.cpp" />
+    <ClCompile Include="ExSecurity.cpp" />
+    <ClCompile Include="ExUser.cpp" />
+    <ClCompile Include="Functions.cpp" />
+    <ClCompile Include="GoldenArcher.cpp" />
+    <ClCompile Include="GrandHeroSystem.cpp" />
+    <ClCompile Include="GrandReset.cpp" />
+    <ClCompile Include="HappyHour.cpp" />
+    <ClCompile Include="ItemDropManager.cpp" />
+    <ClCompile Include="JewelsBank.cpp" />
+    <ClCompile Include="LoraBattle.cpp" />
+    <ClCompile Include="MapExp.cpp" />
+    <ClCompile Include="Message.cpp" />
+    <ClCompile Include="MonsterHerd.cpp" />
+    <ClCompile Include="KalimaGate.cpp" />
+    <ClCompile Include="gObjMonster.cpp" />
+    <ClCompile Include="MonsterAttr.cpp" />
+    <ClCompile Include="MonsterItemMng.cpp" />
+    <ClCompile Include="MonsterSetBase.cpp" />
+    <ClCompile Include="DbSave.cpp" />
+    <ClCompile Include="DBSockMng.cpp" />
+    <ClCompile Include="DSProtocol.cpp" />
+    <ClCompile Include="MossMerchant.cpp" />
+    <ClCompile Include="NewItemDropManager.cpp" />
+    <ClCompile Include="NewJewels.cpp" />
+    <ClCompile Include="NoobSystem.cpp" />
+    <ClCompile Include="NPCTeleport.cpp" />
+    <ClCompile Include="OffExp.cpp" />
+    <ClCompile Include="OffTrade.cpp" />
+    <ClCompile Include="PackSystem.cpp" />
+    <ClCompile Include="PCPointSystem.cpp" />
+    <ClCompile Include="PlayerConnect.cpp" />
+    <ClCompile Include="PremiumSystem.cpp" />
+    <ClCompile Include="PriceManager.cpp" />
+    <ClCompile Include="PvPMapSystem.cpp" />
+    <ClCompile Include="Reset.cpp" />
+    <ClCompile Include="SearchEvent.cpp" />
+    <ClCompile Include="Security.cpp" />
+    <ClCompile Include="SProtocol.cpp" />
+    <ClCompile Include="protocol.cpp" />
+    <ClCompile Include="EDSProtocol.cpp" />
+    <ClCompile Include="MultiAttackHackCheck.cpp" />
+    <ClCompile Include="NSerialCheck.cpp" />
+    <ClCompile Include="PacketCheckSum.cpp" />
+    <ClCompile Include="HackToolPacket.cpp" />
+    <ClCompile Include="SystemOfRage.cpp" />
+    <ClCompile Include="TalismanSystem.cpp" />
+    <ClCompile Include="TDurMagicKeyChecker.cpp" />
+    <ClCompile Include="ChinaHackUserKick.cpp" />
+    <ClCompile Include="SendHackLog.cpp" />
+    <ClCompile Include="DevilSquare.cpp" />
+    <ClCompile Include="DevilSquareGround.cpp" />
+    <ClCompile Include="BattleGround.cpp" />
+    <ClCompile Include="BattleSoccer.cpp" />
+    <ClCompile Include="BattleSoccerManager.cpp" />
+    <ClCompile Include="DragonEvent.cpp" />
+    <ClCompile Include="AttackEvent.cpp" />
+    <ClCompile Include="EledoradoEvent.cpp" />
+    <ClCompile Include="RingAttackEvent.cpp" />
+    <ClCompile Include="TvTEvent.cpp" />
+    <ClCompile Include="VipSystem.cpp" />
+    <ClCompile Include="Voter.cpp" />
+    <ClCompile Include="WTEventItemList.cpp" />
+    <ClCompile Include="CastleDeepEvent.cpp" />
+    <ClCompile Include="PCBangPointSystem.cpp" />
+    <ClCompile Include="GambleSystem.cpp" />
+    <ClCompile Include="XMasAttackEventData.cpp" />
+    <ClCompile Include="Event.cpp" />
+    <ClCompile Include="EventManagement.cpp" />
+    <ClCompile Include="ItemBag.cpp" />
+    <ClCompile Include="ItemBagEx.cpp" />
+    <ClCompile Include="ProbabilityItemBag.cpp" />
+    <ClCompile Include="XMasAttackEvent.cpp" />
+    <ClCompile Include="MagicDamage.cpp" />
+    <ClCompile Include="MagicInf.cpp" />
+    <ClCompile Include="SkillAdditionInfo.cpp" />
+    <ClCompile Include="SkillDelay.cpp" />
+    <ClCompile Include="SkillHitBox.cpp" />
+    <ClCompile Include="QuestInfo.cpp" />
+    <ClCompile Include="QuestUtil.cpp" />
+    <ClCompile Include="wsGameServer.cpp" />
+    <ClCompile Include="WzMultiCastSock.cpp" />
+    <ClCompile Include="giocp.cpp" />
+    <ClCompile Include="..\common\MyWinsockBase.cpp" />
+    <ClCompile Include="wsJoinServerCli.cpp" />
+    <ClCompile Include="WzQueue.cpp" />
+    <ClCompile Include="WzUdp.cpp" />
+    <ClCompile Include="MapClass.cpp" />
+    <ClCompile Include="MapItem.cpp" />
+    <ClCompile Include="AcceptIp.cpp" />
+    <ClCompile Include="CLoginCount.cpp" />
+    <ClCompile Include="ClosePlayer.cpp" />
+    <ClCompile Include="ConMember.cpp" />
+    <ClCompile Include="IpCache.cpp" />
+    <ClCompile Include="DirPath.cpp" />
+    <ClCompile Include="logproc.cpp" />
+    <ClCompile Include="LogToFile.cpp" />
+    <ClCompile Include="MoveCheck.cpp" />
+    <ClCompile Include="..\common\winutil.cpp" />
+    <ClCompile Include="WhisperCash.cpp" />
+    <ClCompile Include="zzzmathlib.cpp" />
+    <ClCompile Include="..\common\WZScriptEncode.cpp" />
+    <ClCompile Include="CWhatsUpDummyServer.cpp" />
+    <ClCompile Include="TNotice.cpp" />
+    <ClCompile Include="TStatistics.cpp" />
+    <ClCompile Include="CallStackTrace.cpp" />
+    <ClCompile Include="TServerAlertManager.cpp" />
+    <ClCompile Include="TServerInfoDisplayer.cpp" />
+    <ClCompile Include="MiniDump.cpp" />
+    <ClCompile Include="PartyClass.cpp" />
+    <ClCompile Include="GuildClass.cpp" />
+    <ClCompile Include="ViewportGuild.cpp" />
+    <ClCompile Include="ObjAttack.cpp" />
+    <ClCompile Include="ObjBaseAttack.cpp" />
+    <ClCompile Include="ObjUseSkill.cpp" />
+    <ClCompile Include="..\common\classdef.cpp" />
+    <ClCompile Include="StatMng.cpp" />
+    <ClCompile Include="ComboAttack.cpp" />
+    <ClCompile Include="ObjCalCharacter.cpp" />
+    <ClCompile Include="DarkSpirit.cpp" />
+    <ClCompile Include="TUnion.cpp" />
+    <ClCompile Include="TUnionInfo.cpp" />
+    <ClCompile Include="MasterLevelSystem.cpp" />
+    <ClCompile Include="MasterSkillSystem.cpp" />
+    <ClCompile Include="user.cpp" />
+    <ClCompile Include="SocketData.cpp" />
+    <ClCompile Include="SocketOption.cpp" />
+    <ClCompile Include="SocketSphere.cpp" />
+    <ClCompile Include="ItemAddOption.cpp" />
+    <ClCompile Include="JewelMixSystem.cpp" />
+    <ClCompile Include="..\common\SetItemOption.cpp" />
+    <ClCompile Include="..\common\zzzitem.cpp" />
+    <ClCompile Include="Shop.cpp" />
+    <ClCompile Include="CCastleEventItemList.cpp" />
+    <ClCompile Include="GMMng.cpp" />
+    <ClCompile Include="MoveCommand.cpp" />
+    <ClCompile Include="SetItemMacro.cpp" />
+    <ClCompile Include="GameMain.cpp" />
+    <ClCompile Include="StdAfx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='PHICS|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='PHICS|Win32'">stdafx.h</PrecompiledHeaderFile>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='PHI|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='PHI|Win32'">stdafx.h</PrecompiledHeaderFile>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='TAICS|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='TAICS|Win32'">stdafx.h</PrecompiledHeaderFile>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='TAI|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='TAI|Win32'">stdafx.h</PrecompiledHeaderFile>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='JPNCS|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='JPNCS|Win32'">stdafx.h</PrecompiledHeaderFile>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='JPN|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='JPN|Win32'">stdafx.h</PrecompiledHeaderFile>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='VTMCS|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='VTMCS|Win32'">stdafx.h</PrecompiledHeaderFile>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='VTM|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='VTM|Win32'">stdafx.h</PrecompiledHeaderFile>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='CHSCS|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='CHSCS|Win32'">stdafx.h</PrecompiledHeaderFile>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='CHS|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='CHS|Win32'">stdafx.h</PrecompiledHeaderFile>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='KORCS|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='KORCS|Win32'">stdafx.h</PrecompiledHeaderFile>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='KOR|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='KOR|Win32'">stdafx.h</PrecompiledHeaderFile>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='ENGCS|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='ENGCS|Win32'">stdafx.h</PrecompiledHeaderFile>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='ENG|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='ENG|Win32'">stdafx.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <ClCompile Include="GameServer.cpp" />
+    <ClCompile Include="Gate.cpp" />
+    <ClCompile Include="BloodCastle.cpp" />
+    <ClCompile Include="ChaosCastle.cpp" />
+    <ClCompile Include="ChaosCastleSetItemDrop.cpp" />
+    <ClCompile Include="CannonTower.cpp" />
+    <ClCompile Include="CastleCrown.cpp" />
+    <ClCompile Include="CastleCrownSwitch.cpp" />
+    <ClCompile Include="Guardian.cpp" />
+    <ClCompile Include="GuardianStatue.cpp" />
+    <ClCompile Include="LifeStone.cpp" />
+    <ClCompile Include="Mercenary.cpp" />
+    <ClCompile Include="Weapon.cpp" />
+    <ClCompile Include="CastleSiege.cpp" />
+    <ClCompile Include="CastleSiegeSync.cpp" />
+    <ClCompile Include="MapServerManager.cpp" />
+    <ClCompile Include="NpcTalk.cpp" />
+    <ClCompile Include="TMonsterSkillElement.cpp" />
+    <ClCompile Include="TMonsterSkillElementInfo.cpp" />
+    <ClCompile Include="TMonsterSkillManager.cpp" />
+    <ClCompile Include="TMonsterSkillUnit.cpp" />
+    <ClCompile Include="TMonsterAI.cpp" />
+    <ClCompile Include="TMonsterAIAgro.cpp" />
+    <ClCompile Include="TMonsterAIAutomata.cpp" />
+    <ClCompile Include="TMonsterAIElement.cpp" />
+    <ClCompile Include="TMonsterAIGroup.cpp" />
+    <ClCompile Include="TMonsterAIGroupMember.cpp" />
+    <ClCompile Include="TMonsterAIMovePath.cpp" />
+    <ClCompile Include="TMonsterAIRule.cpp" />
+    <ClCompile Include="TMonsterAIRuleInfo.cpp" />
+    <ClCompile Include="TMonsterAIUnit.cpp" />
+    <ClCompile Include="TMonsterAIUtil.cpp" />
+    <ClCompile Include="CrywolfAltar.cpp" />
+    <ClCompile Include="CrywolfStatue.cpp" />
+    <ClCompile Include="CrywolfDarkElf.cpp" />
+    <ClCompile Include="CrywolfMonster.cpp" />
+    <ClCompile Include="CrywolfTanker.cpp" />
+    <ClCompile Include="Crywolf.cpp" />
+    <ClCompile Include="CrywolfStateTimeInfo.cpp" />
+    <ClCompile Include="CrywolfSync.cpp" />
+    <ClCompile Include="CrywolfUtil.cpp" />
+    <ClCompile Include="ItemSystemFor380.cpp" />
+    <ClCompile Include="JewelOfHarmonySystem.cpp" />
+    <ClCompile Include="TRandomPoolMgr.cpp" />
+    <ClCompile Include="KanturuMaya.cpp" />
+    <ClCompile Include="KanturuMonsterMng.cpp" />
+    <ClCompile Include="KanturuNightmare.cpp" />
+    <ClCompile Include="KanturuBattleOfMaya.cpp" />
+    <ClCompile Include="KanturuBattleOfNightmare.cpp" />
+    <ClCompile Include="KanturuBattleStanby.cpp" />
+    <ClCompile Include="KanturuTowerOfRefinement.cpp" />
+    <ClCompile Include="KanturuBattleUserMng.cpp" />
+    <ClCompile Include="KanturuEntranceNPC.cpp" />
+    <ClCompile Include="Kanturu.cpp" />
+    <ClCompile Include="KanturuStateInfo.cpp" />
+    <ClCompile Include="KanturuUtil.cpp" />
+    <ClCompile Include="IllusionTempleEvent.cpp" />
+    <ClCompile Include="IllusionTempleProcess.cpp" />
+    <ClCompile Include="MixSystem.cpp" />
+    <ClCompile Include="CashShop.cpp" />
+    <ClCompile Include="wsShopServerCli.cpp" />
+    <ClCompile Include="CashItemPeriodSystem.cpp" />
+    <ClCompile Include="CashLotterySystem.cpp" />
+    <ClCompile Include="ViewportSkillState.cpp" />
+    <ClCompile Include="BuffManager.cpp" />
+    <ClCompile Include="BuffEffect.cpp" />
+    <ClCompile Include="RaklionSelupan.cpp" />
+    <ClCompile Include="RaklionBattleOfSelupan.cpp" />
+    <ClCompile Include="RaklionBattleUserMng.cpp" />
+    <ClCompile Include="Raklion.cpp" />
+    <ClCompile Include="RaklionUtil.cpp" />
+    <ClCompile Include="ChaosCard.cpp" />
+    <ClCompile Include="GameEvent.cpp" />
+    <ClCompile Include="GameServerAuth.cpp" />
+    <ClCompile Include="LargeRand.cpp" />
+    <ClCompile Include="MultiCheckSum.cpp" />
+    <ClCompile Include="..\common\TSync.cpp" />
+    <ClCompile Include="..\common\WzMemScript.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="GameServer.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="SimpleModulus.lib" />
+    <Library Include="..\GGSvr\Release\GGSvr.lib" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AcceptIp.h" />
+    <ClInclude Include="AntiCheatPlus.h" />
+    <ClInclude Include="AntiHack.h" />
+    <ClInclude Include="AttackEvent.h" />
+    <ClInclude Include="BalanceSystem.h" />
+    <ClInclude Include="BattleGround.h" />
+    <ClInclude Include="BattleSoccer.h" />
+    <ClInclude Include="BattleSoccerManager.h" />
+    <ClInclude Include="BloodCastle.h" />
+    <ClInclude Include="BMQuest.h" />
+    <ClInclude Include="CallStackTrace.h" />
+    <ClInclude Include="CannonTower.h" />
+    <ClInclude Include="CashItemPeriodSystem.h" />
+    <ClInclude Include="CashLotterySystem.h" />
+    <ClInclude Include="ChaosMixManager.h" />
+    <ClInclude Include="ComboCustom.h" />
+    <ClInclude Include="Commands.h" />
+    <ClInclude Include="Configs.h" />
+    <ClInclude Include="ConnectEx.h" />
+    <ClInclude Include="CreditDonate.h" />
+    <ClInclude Include="CustomNpc.h" />
+    <ClInclude Include="DropEvent.h" />
+    <ClInclude Include="DropZenManager.h" />
+    <ClInclude Include="DuelManager.h" />
+    <ClInclude Include="Experience.h" />
+    <ClInclude Include="ExQuestSystem.h" />
+    <ClInclude Include="ExSecurity.h" />
+    <ClInclude Include="ExUser.h" />
+    <ClInclude Include="Functions.h" />
+    <ClInclude Include="GoldenArcher.h" />
+    <ClInclude Include="GrandHeroSystem.h" />
+    <ClInclude Include="GrandReset.h" />
+    <ClInclude Include="HappyHour.h" />
+    <ClInclude Include="ItemDropManager.h" />
+    <ClInclude Include="JewelsBank.h" />
+    <ClInclude Include="LoraBattle.h" />
+    <ClInclude Include="MapExp.h" />
+    <ClInclude Include="Message.h" />
+    <ClInclude Include="MossMerchant.h" />
+    <ClInclude Include="NewItemDropManager.h" />
+    <ClInclude Include="NewJewels.h" />
+    <ClInclude Include="NoobSystem.h" />
+    <ClInclude Include="NPCTeleport.h" />
+    <ClInclude Include="OffExp.h" />
+    <ClInclude Include="OffTrade.h" />
+    <ClInclude Include="PackSystem.h" />
+    <ClInclude Include="PCPointSystem.h" />
+    <ClInclude Include="PlayerConnect.h" />
+    <ClInclude Include="PremiumSystem.h" />
+    <ClInclude Include="PriceManager.h" />
+    <ClInclude Include="PvPMapSystem.h" />
+    <ClInclude Include="Reset.h" />
+    <ClInclude Include="SearchEvent.h" />
+    <ClInclude Include="Security.h" />
+    <ClInclude Include="SystemOfRage.h" />
+    <ClInclude Include="TalismanSystem.h" />
+    <ClInclude Include="TvTEvent.h" />
+    <ClInclude Include="ViewportSkillState.h" />
+    <ClInclude Include="BuffManager.h" />
+    <ClInclude Include="BuffEffect.h" />
+    <ClInclude Include="RaklionSelupan.h" />
+    <ClInclude Include="RaklionBattleOfSelupan.h" />
+    <ClInclude Include="RaklionBattleUserMng.h" />
+    <ClInclude Include="Raklion.h" />
+    <ClInclude Include="RaklionUtil.h" />
+    <ClInclude Include="ChaosCard.h" />
+    <ClInclude Include="CashShop.h" />
+    <ClInclude Include="CastleDeepEvent.h" />
+    <ClInclude Include="CastleCrown.h" />
+    <ClInclude Include="CastleCrownSwitch.h" />
+    <ClInclude Include="CCastleEventItemList.h" />
+    <ClInclude Include="CastleSiege.h" />
+    <ClInclude Include="CastleSiegeSync.h" />
+    <ClInclude Include="MixSystem.h" />
+    <ClInclude Include="ChaosCastle.h" />
+    <ClInclude Include="ChaosCastleSetItemDrop.h" />
+    <ClInclude Include="ChinaHackUserKick.h" />
+    <ClInclude Include="..\common\classdef.h" />
+    <ClInclude Include="CLoginCount.h" />
+    <ClInclude Include="ClosePlayer.h" />
+    <ClInclude Include="ComboAttack.h" />
+    <ClInclude Include="ConMember.h" />
+    <ClInclude Include="Crywolf.h" />
+    <ClInclude Include="CrywolfAltar.h" />
+    <ClInclude Include="CrywolfDarkElf.h" />
+    <ClInclude Include="CrywolfMonster.h" />
+    <ClInclude Include="CrywolfObjInfo.h" />
+    <ClInclude Include="CrywolfStateTimeInfo.h" />
+    <ClInclude Include="CrywolfStatue.h" />
+    <ClInclude Include="CrywolfSync.h" />
+    <ClInclude Include="CrywolfTanker.h" />
+    <ClInclude Include="CrywolfUtil.h" />
+    <ClInclude Include="CWhatsUpDummyServer.h" />
+    <ClInclude Include="DarkSpirit.h" />
+    <ClInclude Include="DbSave.h" />
+    <ClInclude Include="DBSockMng.h" />
+    <ClInclude Include="DevilSquare.h" />
+    <ClInclude Include="DevilSquareGround.h" />
+    <ClInclude Include="dirpath.h" />
+    <ClInclude Include="DragonEvent.h" />
+    <ClInclude Include="DSProtocol.h" />
+    <ClInclude Include="EDSProtocol.h" />
+    <ClInclude Include="EledoradoEvent.h" />
+    <ClInclude Include="Event.h" />
+    <ClInclude Include="EventManagement.h" />
+    <ClInclude Include="GameEvent.h" />
+    <ClInclude Include="GameMain.h" />
+    <ClInclude Include="GameServer.h" />
+    <ClInclude Include="GameServerAuth.h" />
+    <ClInclude Include="Gate.h" />
+    <ClInclude Include="giocp.h" />
+    <ClInclude Include="GMMng.h" />
+    <ClInclude Include="gObjMonster.h" />
+    <ClInclude Include="Guardian.h" />
+    <ClInclude Include="GuardianStatue.h" />
+    <ClInclude Include="GuildClass.h" />
+    <ClInclude Include="IpCache.h" />
+    <ClInclude Include="ItemBag.h" />
+    <ClInclude Include="ItemBagEx.h" />
+    <ClInclude Include="ItemSystemFor380.h" />
+    <ClInclude Include="JewelMixSystem.h" />
+    <ClInclude Include="JewelOfHarmonySystem.h" />
+    <ClInclude Include="KalimaGate.h" />
+    <ClInclude Include="Kanturu.h" />
+    <ClInclude Include="KanturuBattleOfMaya.h" />
+    <ClInclude Include="KanturuBattleOfNightmare.h" />
+    <ClInclude Include="KanturuBattleStanby.h" />
+    <ClInclude Include="KanturuBattleUser.h" />
+    <ClInclude Include="KanturuBattleUserMng.h" />
+    <ClInclude Include="KanturuEntranceNPC.h" />
+    <ClInclude Include="KanturuMaya.h" />
+    <ClInclude Include="KanturuMonsterMng.h" />
+    <ClInclude Include="KanturuNightmare.h" />
+    <ClInclude Include="KanturuObjInfo.h" />
+    <ClInclude Include="KanturuStateInfo.h" />
+    <ClInclude Include="KanturuTowerOfRefinement.h" />
+    <ClInclude Include="KanturuUtil.h" />
+    <ClInclude Include="IllusionTempleEvent.h" />
+    <ClInclude Include="IllusionTempleProcess.h" />
+    <ClInclude Include="PCBangPointSystem.h" />
+    <ClInclude Include="GambleSystem.h" />
+    <ClInclude Include="VipSystem.h" />
+    <ClInclude Include="VMProtectSDK.h" />
+    <ClInclude Include="Voter.h" />
+    <ClInclude Include="XMasAttackEventData.h" />
+    <ClInclude Include="ProbabilityItemBag.h" />
+    <ClInclude Include="XMasAttackEvent.h" />
+    <ClInclude Include="LargeRand.h" />
+    <ClInclude Include="LifeStone.h" />
+    <ClInclude Include="logproc.h" />
+    <ClInclude Include="LogToFile.h" />
+    <ClInclude Include="MagicDamage.h" />
+    <ClInclude Include="MagicInf.h" />
+    <ClInclude Include="MapClass.h" />
+    <ClInclude Include="MapItem.h" />
+    <ClInclude Include="MapServerManager.h" />
+    <ClInclude Include="Mercenary.h" />
+    <ClInclude Include="MonsterAttr.h" />
+    <ClInclude Include="MonsterHerd.h" />
+    <ClInclude Include="MonsterItemMng.h" />
+    <ClInclude Include="MonsterSetBase.h" />
+    <ClInclude Include="MoveCheck.h" />
+    <ClInclude Include="MoveCommand.h" />
+    <ClInclude Include="MultiAttackHackCheck.h" />
+    <ClInclude Include="MultiCheckSum.h" />
+    <ClInclude Include="..\common\MyWinsockBase.h" />
+    <ClInclude Include="NpcTalk.h" />
+    <ClInclude Include="NSerialCheck.h" />
+    <ClInclude Include="ObjAttack.h" />
+    <ClInclude Include="ObjBaseAttack.h" />
+    <ClInclude Include="ObjCalCharacter.h" />
+    <ClInclude Include="ObjUseSkill.h" />
+    <ClInclude Include="PacketCheckSum.h" />
+    <ClInclude Include="HackToolPacket.h" />
+    <ClInclude Include="PartyClass.h" />
+    <ClInclude Include="PCSProtocol.h" />
+    <ClInclude Include="protocol.h" />
+    <ClInclude Include="QuestInfo.h" />
+    <ClInclude Include="QuestUtil.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="RingAttackEvent.h" />
+    <ClInclude Include="SendHackLog.h" />
+    <ClInclude Include="SetItemMacro.h" />
+    <ClInclude Include="..\common\SetItemOption.h" />
+    <ClInclude Include="Shop.h" />
+    <ClInclude Include="SkillAdditionInfo.h" />
+    <ClInclude Include="SkillDelay.h" />
+    <ClInclude Include="SkillHitBox.h" />
+    <ClInclude Include="spe.h" />
+    <ClInclude Include="SProtocol.h" />
+    <ClInclude Include="StatMng.h" />
+    <ClInclude Include="StdAfx.h" />
+    <ClInclude Include="TDurMagicKeyChecker.h" />
+    <ClInclude Include="TMonsterAI.h" />
+    <ClInclude Include="TMonsterAIAgro.h" />
+    <ClInclude Include="TMonsterAIAutomata.h" />
+    <ClInclude Include="TMonsterAIElement.h" />
+    <ClInclude Include="TMonsterAIGroup.h" />
+    <ClInclude Include="TMonsterAIGroupMember.h" />
+    <ClInclude Include="TMonsterAIMovePath.h" />
+    <ClInclude Include="TMonsterAIRule.h" />
+    <ClInclude Include="TMonsterAIRuleInfo.h" />
+    <ClInclude Include="TMonsterAIState.h" />
+    <ClInclude Include="TMonsterAIUnit.h" />
+    <ClInclude Include="TMonsterAIUtil.h" />
+    <ClInclude Include="TMonsterSkillElement.h" />
+    <ClInclude Include="TMonsterSkillElementInfo.h" />
+    <ClInclude Include="TMonsterSkillInfo.h" />
+    <ClInclude Include="TMonsterSkillManager.h" />
+    <ClInclude Include="TMonsterSkillUnit.h" />
+    <ClInclude Include="TNotice.h" />
+    <ClInclude Include="TRandomPoolMgr.h" />
+    <ClInclude Include="TServerAlertManager.h" />
+    <ClInclude Include="TServerInfoDisplayer.h" />
+    <ClInclude Include="MiniDump.h" />
+    <ClInclude Include="TSkillElement.h" />
+    <ClInclude Include="TStatistics.h" />
+    <ClInclude Include="..\common\TSync.h" />
+    <ClInclude Include="TUnion.h" />
+    <ClInclude Include="TUnionInfo.h" />
+    <ClInclude Include="MasterLevelSystem.h" />
+    <ClInclude Include="MasterSkillSystem.h" />
+    <ClInclude Include="user.h" />
+    <ClInclude Include="SocketData.h" />
+    <ClInclude Include="SocketOption.h" />
+    <ClInclude Include="SocketSphere.h" />
+    <ClInclude Include="ItemAddOption.h" />
+    <ClInclude Include="ViewportGuild.h" />
+    <ClInclude Include="Weapon.h" />
+    <ClInclude Include="WhisperCash.h" />
+    <ClInclude Include="..\common\winutil.h" />
+    <ClInclude Include="wsGameServer.h" />
+    <ClInclude Include="wsJoinServerCli.h" />
+    <ClInclude Include="wsShopServerCli.h" />
+    <ClInclude Include="WTEventItemList.h" />
+    <ClInclude Include="..\common\WzMemScript.h" />
+    <ClInclude Include="WzMultiCastSock.h" />
+    <ClInclude Include="WzQueue.h" />
+    <ClInclude Include="..\common\WZScriptEncode.h" />
+    <ClInclude Include="WzUdp.h" />
+    <ClInclude Include="..\include\Readscript.h" />
+    <ClInclude Include="..\include\prodef.h" />
+    <ClInclude Include="..\common\zzzitem.h" />
+    <ClInclude Include="zzzmathlib.h" />
+    <ClInclude Include="..\common\zzzpath.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="GameServer.ico" />
+    <CustomBuild Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\ExTeam\Character.ini" />
+    <None Include="..\ExTeam\Commands.ini" />
+    <None Include="..\ExTeam\CommonServer.ini" />
+    <None Include="..\ExTeam\DropZenManager.ini" />
+    <None Include="..\ExTeam\Events.ini" />
+    <None Include="..\ExTeam\Events\GoldenArcher.ini" />
+    <None Include="..\ExTeam\Events\GoldenInvasionDrop.ini" />
+    <None Include="..\ExTeam\Events\MossMerchant.ini" />
+    <None Include="..\ExTeam\Events\TvTEvent.ini" />
+    <None Include="..\ExTeam\Experience.ini" />
+    <None Include="..\ExTeam\ExQuestSystem.ini" />
+    <None Include="..\ExTeam\GrandReset.ini" />
+    <None Include="..\ExTeam\ItemDropManager.ini" />
+    <None Include="..\ExTeam\NewJewels.ini" />
+    <None Include="..\ExTeam\OffExp.ini" />
+    <None Include="..\ExTeam\OffTrade.ini" />
+    <None Include="..\ExTeam\PCPointSystem.ini" />
+    <None Include="..\ExTeam\Pets.ini" />
+    <None Include="..\ExTeam\PlayerConnect.ini" />
+    <None Include="..\ExTeam\PriceManager.ini" />
+    <None Include="..\ExTeam\PvPSystem.ini" />
+    <None Include="..\ExTeam\Reset.ini" />
+    <None Include="..\ExTeam\Skills.ini" />
+    <None Include="..\Logs.ini" />
+    <None Include="..\Query.ini" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

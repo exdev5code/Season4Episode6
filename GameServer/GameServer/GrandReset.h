@@ -1,0 +1,1 @@
+void ExGrandResetSystemFunciton(int aIndex);

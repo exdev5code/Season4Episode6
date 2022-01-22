@@ -1,0 +1,179 @@
+//Moon Harvest - Lunar Rabbit
+
+//=========================
+//Map Drop
+//Map	Drop	Min	Max
+//=========================
+0
+0	0	0	1000	//Lorencia
+1	0	0	1000	//Dungeon
+2	0	0	1000	//Devias
+3	0	0	1000	//Noria
+4	0	0	1000	//LostTower
+5	0	0	1000	//Exile
+6	0	0	1000	//Arena
+7	0	0	1000	//Atlans
+8	0	0	1000	//Tarkan
+9	0	0	1000	//DevilSquare
+10	0	0	1000	//Icarus
+end
+
+//=====================================================================================
+//Drop Options
+//Name			Zen		Type	Item	Level	Drop	NorDrop	ExcDrop
+//=====================================================================================
+1
+"Moon Harvest"		30000		0	0	0	0	100	1
+end
+
+//==================================================================
+//Item Drops
+//Type	Index	MinLvl	MaxLvl	Skill	Luck	Opt	Exc	Name
+//==================================================================
+2
+2300
+//=========
+//1 ранг вещей 
+//=========
+0	0	0	0	1	1	1	1	//Kris
+0	1	0	0	1	1	1	1	//Short Sword
+0	2	0	0	1	1	1	1	//Rapier
+0	3	0	0	1	1	1	1	//Katana
+0	4	0	0	1	1	1	1	//Sword of Assassin
+1	0	0	0	1	1	1	1	//Small Axe
+1	1	0	0	1	1	1	1	//Hand Axe
+1	2	0	0	1	1	1	1	//Double Axe
+1	3	0	0	1	1	1	1	//Tomahawk
+2	0	0	0	1	1	1	1	//Mace
+2	1	0	0	1	1	1	1	//Morning Star
+2	2	0	0	1	1	1	1	//Flail
+3	1	0	0	1	1	1	1	//Spear
+3	2	0	0	1	1	1	1	//Dragon Lance
+3	5	0	0	1	1	1	1	//Double Poleaxe
+3	6	0	0	1	1	1	1	//Halberd
+3	7	0	0	1	1	1	1	//Berdysh
+4	0	0	0	1	1	1	1	//Short Bow
+4	1	0	0	1	1	1	1	//Bow
+4	2	0	0	1	1	1	1	//Elven Bow
+4	8	0	0	1	1	1	1	//Crossbow
+4	9	0	0	1	1	1	1	//Golden Crossbow
+5	0	0	0	0	1	1	1	//Skull Staff
+5	1	0	0	0	1	1	1	//Angelic Staff
+5	2	0	0	0	1	1	1	//Serpent Staff
+5	14	0	0	0	1	1	1	//Mystery Stick
+5	21	0	0	1	1	1	1	//Book of Sahamut
+6	0	0	0	1	1	1	1	//Small Shield
+6	1	0	0	1	1	1	1	//Horn Shield
+6	2	0	0	1	1	1	1	//Kite Shield
+6	3	0	0	1	1	1	1	//Elven Shield
+6	4	0	0	1	1	1	1	//Buckler
+7	5	0	0	0	1	1	1	//Leather
+7	0	0	0	0	1	1	1	//Bronze
+7	2	0	0	0	1	1	1	//Pad
+7	10	0	0	0	1	1	1	//Vine
+7	11	0	0	0	1	1	1	//Silk
+7	39	0	0	0	1	1	1	//Violent Wind
+8	5	0	0	0	1	1	1	//Leather
+8	0	0	0	0	1	1	1	//Bronze
+8	2	0	0	0	1	1	1	//Pad
+8	10	0	0	0	1	1	1	//Vine
+8	11	0	0	0	1	1	1	//Silk
+8	39	0	0	0	1	1	1	//Violent Wind
+9	5	0	0	0	1	1	1	//Leather
+9	0	0	0	0	1	1	1	//Bronze
+9	2	0	0	0	1	1	1	//Pad
+9	10	0	0	0	1	1	1	//Vine
+9	11	0	0	0	1	1	1	//Silk
+9	39	0	0	0	1	1	1	//Violent Wind
+10	5	0	0	0	1	1	1	//Leather
+10	0	0	0	0	1	1	1	//Bronze
+10	2	0	0	0	1	1	1	//Pad
+10	10	0	0	0	1	1	1	//Vine
+10	11	0	0	0	1	1	1	//Silk
+10	39	0	0	0	1	1	1	//Violent Wind
+11	5	0	0	0	1	1	1	//Leather
+11	0	0	0	0	1	1	1	//Bronze
+11	2	0	0	0	1	1	1	//Pad
+11	10	0	0	0	1	1	1	//Vine
+11	11	0	0	0	1	1	1	//Silk
+11	39	0	0	0	1	1	1	//Violent Wind
+end
+
+500
+//=========
+//2 ранг вещей
+//=========
+0	5	0	0	1	1	1	1	//Blade
+0	6	0	0	1	1	1	1	//Gladius
+0	7	0	0	1	1	1	1	//Falchion
+0	8	0	0	1	1	1	1	//Serpent Sword
+0	9	0	0	1	1	1	1	//Sword of Salamander
+0	10	0	0	1	1	1	1	//Light Saber
+1	4	0	0	1	1	1	1	//Elven Axe
+1	5	0	0	1	1	1	1	//Battle Axe
+1	6	0	0	1	1	1	1	//Nikea Axe
+1	7	0	0	1	1	1	1	//Larkan Axe
+2	3	0	0	1	1	1	1	//Great Hammer
+2	4	0	0	1	1	1	1	//Crystal Morning Star
+2	8	0	0	1	1	1	1	//Battle Scepter
+2	9	0	0	1	1	1	1	//Master Scepter
+3	0	0	0	1	1	1	1	//Light Spear
+3	3	0	0	1	1	1	1	//Giant Trident
+3	4	0	0	1	1	1	1	//Serpent Spear
+3	8	0	0	1	1	1	1	//Great Scythe
+4	3	0	0	1	1	1	1	//Battle Bow
+4	4	0	0	1	1	1	1	//Tiger Bow
+4	10	0	0	1	1	1	1	//Arquebus
+4	11	0	0	1	1	1	1	//Light Crossbow
+4	12	0	0	1	1	1	1	//Serpent Crossbow
+5	3	0	0	0	1	1	1	//Thunder Staff
+5	4	0	0	0	1	1	1	//Gorgon Staff
+5	15	0	0	0	1	1	1	//Violent Wind Stick	
+5	22	0	0	1	1	1	1	//Book of Neil
+6	5	0	0	1	1	1	1	//Dragon Slayer Shield
+6	6	0	0	1	1	1	1	//Skull Shield
+6	7	0	0	1	1	1	1	//Spiked Shield
+6	8	0	0	1	1	1	1	//Tower Shield
+7	6	0	0	0	1	1	1	//Scale
+7	8	0	0	0	1	1	1	//Brass
+7	4	0	0	0	1	1	1	//Bone
+7	12	0	0	0	1	1	1	//Wind
+7	40	0	0	0	1	1	1	//Red Wing
+8	6	0	0	0	1	1	1	//Scale
+8	8	0	0	0	1	1	1	//Brass
+8	4	0	0	0	1	1	1	//Bone
+8	12	0	0	0	1	1	1	//Wind
+8	40	0	0	0	1	1	1	//Red Wing
+9	6	0	0	0	1	1	1	//Scale
+9	8	0	0	0	1	1	1	//Brass
+9	4	0	0	0	1	1	1	//Bone
+9	12	0	0	0	1	1	1	//Wind
+9	40	0	0	0	1	1	1	//Red Wing
+10	6	0	0	0	1	1	1	//Scale
+10	8	0	0	0	1	1	1	//Brass
+10	4	0	0	0	1	1	1	//Bone
+10	12	0	0	0	1	1	1	//Wind
+10	40	0	0	0	1	1	1	//Red Wing
+11	6	0	0	0	1	1	1	//Scale
+11	8	0	0	0	1	1	1	//Brass
+11	4	0	0	0	1	1	1	//Bone
+11	12	0	0	0	1	1	1	//Wind
+11	40	0	0	0	1	1	1	//Red Wing
+end
+
+100
+12	15	0	0	0	0	0	0	//Jewel of Chaos
+end
+
+50
+14	14	0	0	0	0	0	0	//Jewel of Soul
+end
+
+30
+14	22	0	0	0	0	0	0	//Jewel of Creation
+end
+
+20
+14	13	0	0	0	0	0	0	//Jewel of Bless
+end
+end

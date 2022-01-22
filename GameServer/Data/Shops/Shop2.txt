@@ -1,0 +1,43 @@
+//Shop2 [Lora] Mag
+//
+7  2 0 29 0 1 0 //Pad Helm
+7  2 1 33 0 1 0 //Pad Helm
+7  4 0 34 0 1 0 //Bone Helm
+7  3 0 48 0 1 0 //Legendary Helm
+ //
+8  2 0 29 0 1 0 //Pad Armor
+8  2 1 33 0 1 0 //Pad Armor
+8  4 0 34 0 1 0 //Bone Armor
+8  3 0 48 0 1 0 //Legendary Armor
+//
+10 2 0 28 0 1 0 //Pad Gloves
+10 2 1 33 0 1 0 //Pad Gloves
+10 4 0 34 0 1 0 //Bone Gloves
+10 3 0 48 0 1 0 //Legendary Gloves
+//
+9  2 0 29 0 1 0 //Pad Pants
+9  2 1 33 0 1 0 //Pad Pants
+9  4 0 34 0 1 0 //Bone Pants
+9  3 0 48 0 1 0 //Legendary Pants
+//
+11 2 0 29 0 1 0 //Pad Boots
+11 2 1 33 0 1 0 //Pad Boots
+11 4 0 34 0 1 0 //Bone Boots
+11 3 0 48 0 1 0 //Legendary Boots
+//
+15  8 0 0 0 0 0 //Fireball Scroll
+15 10 0 0 0 0 0 //Power Wave Scroll
+15  1 0 0 0 0 0 //Meteor Scroll
+15  6 0 0 0 0 0 //Scroll of Ice
+15  0 0 0 0 0 0 //Poison Scroll
+15  7 0 0 0 0 0 //Twister Scroll
+15 2 0 0 0 0 0 //Lighting Scroll
+15 5 0 0 0 0 0 //Lighting Scroll
+//
+//6   4 2 26 0 1 0 //Buckler
+5   0 0 21 0 1 0 //Skull Staff
+5   0 1 24 0 1 0 //Skull Staff
+5   1 0 42 0 1 0 //Angelic Staff
+5   2 0 56 0 1 0 //Serpent Staff
+6  14 0 52 0 1 0 //Legendary Shield
+end

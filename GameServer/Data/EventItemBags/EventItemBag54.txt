@@ -1,0 +1,20 @@
+//Santa Event - Item Bag 2
+
+//=====================================================================================
+//Drop Options
+//Name				Zen	Type	Item	Level	Drop	NorDrop	ExcDrop
+//=====================================================================================
+1
+"Santa Event"			60000	0	0	0	0	100	0
+end
+
+//==================================================================
+//Item Drops
+//Type	Index	MinLvl	MaxLvl	Skill	Luck	Opt	Exc	Name
+//==================================================================
+2
+10000
+13	68	0	0	0	0	0	0	//Snowman Transformation Ring
+14	99	0	0	0	0	0	0	//Christmas Firecracker
+end
+end

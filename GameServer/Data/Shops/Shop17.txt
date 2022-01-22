@@ -1,0 +1,11 @@
+// Marseille
+//Index		Item	   Level	   Durabil.	   Skill	    Luck	 Options	    Name Item
+15		3		0		0		0		0		0	// Scroll of Fire Ball
+15		10		0		0		0		0		0	// Scroll of Power Wave
+15		1		0		0		0		0		0	// Scroll of Meteorite
+15		6		0		0		0		0		0	// Scroll of Ice
+15		20		0		0		0		0		0	// Drain Life Parchment
+15		19		0		0		0		0		0	//Scroll of Drain Life
+15		22		0		0		0		0		0	//Scroll of Damage Reflex
+15		21		0		0		0		0		0	//Scroll of Electric Surge
+end

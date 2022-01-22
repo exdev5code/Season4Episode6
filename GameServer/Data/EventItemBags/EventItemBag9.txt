@@ -1,0 +1,86 @@
+// Box of Kundun +2
+
+//--------------------------------------//
+// Drop Options                         //
+//--------------------------------------//
+1
+//        Name         ZenAmount    ItemType  Index   ItemLvl DropRate NormDrop ExcDrop
+     "BoxOfKundun2"	  0		0	0	 0	 0	 100	  1
+end
+
+//--------------------------------------//
+// Item Drops                           //
+//--------------------------------------//
+2
+//  ItemType  Index  MinLvl MaxLvl    Skill    Luck   Option  Excellent
+
+10000
+0	5	0	0	1	1	1	1	//Blade
+0	6	0	0	1	1	1	1	//Gladius
+0	7	0	0	1	1	1	1	//Falchion
+0	8	0	0	1	1	1	1	//Serpent Sword
+0	9	0	0	1	1	1	1	//Sword of Salamander
+0	10	0	0	1	1	1	1	//Light Saber
+1	4	0	0	1	1	1	1	//Elven Axe
+1	5	0	0	1	1	1	1	//Battle Axe
+1	6	0	0	1	1	1	1	//Nikea Axe
+1	7	0	0	1	1	1	1	//Larkan Axe
+2	3	0	0	1	1	1	1	//Great Hammer
+2	4	0	0	1	1	1	1	//Crystal Morning Star
+2	8	0	0	1	1	1	1	//Battle Scepter
+2	9	0	0	1	1	1	1	//Master Scepter
+3	0	0	0	1	1	1	1	//Light Spear
+3	3	0	0	1	1	1	1	//Giant Trident
+3	4	0	0	1	1	1	1	//Serpent Spear
+3	8	0	0	1	1	1	1	//Great Scythe
+4	3	0	0	1	1	1	1	//Battle Bow
+4	4	0	0	1	1	1	1	//Tiger Bow
+4	10	0	0	1	1	1	1	//Arquebus
+4	11	0	0	1	1	1	1	//Light Crossbow
+4	12	0	0	1	1	1	1	//Serpent Crossbow
+5	3	0	0	0	1	1	1	//Thunder Staff
+5	4	0	0	0	1	1	1	//Gorgon Staff
+5	15	0	0	0	1	1	1	//Violent Wind Stick	
+5	22	0	0	1	1	1	1	//Book of Neil
+6	5	0	0	1	1	1	1	//Dragon Slayer Shield
+6	6	0	0	1	1	1	1	//Skull Shield
+6	7	0	0	1	1	1	1	//Spiked Shield
+6	8	0	0	1	1	1	1	//Tower Shield
+7	6	0	0	0	1	1	1	//Scale
+7	8	0	0	0	1	1	1	//Brass
+7	4	0	0	0	1	1	1	//Bone
+7	12	0	0	0	1	1	1	//Wind
+7	40	0	0	0	1	1	1	//Red Wing
+8	6	0	0	0	1	1	1	//Scale
+8	8	0	0	0	1	1	1	//Brass
+8	4	0	0	0	1	1	1	//Bone
+8	12	0	0	0	1	1	1	//Wind
+8	40	0	0	0	1	1	1	//Red Wing
+9	6	0	0	0	1	1	1	//Scale
+9	8	0	0	0	1	1	1	//Brass
+9	4	0	0	0	1	1	1	//Bone
+9	12	0	0	0	1	1	1	//Wind
+9	40	0	0	0	1	1	1	//Red Wing
+10	6	0	0	0	1	1	1	//Scale
+10	8	0	0	0	1	1	1	//Brass
+10	4	0	0	0	1	1	1	//Bone
+10	12	0	0	0	1	1	1	//Wind
+10	40	0	0	0	1	1	1	//Red Wing
+11	6	0	0	0	1	1	1	//Scale
+11	8	0	0	0	1	1	1	//Brass
+11	4	0	0	0	1	1	1	//Bone
+11	12	0	0	0	1	1	1	//Wind
+11	40	0	0	0	1	1	1	//Red Wing
+//=========
+// Rings Pendants
+//=========
+13	21	0	0	0	0	1	1	//Anillo de Fuego
+13	22	0	0	0	0	1	1	//Anillo de Tierra
+13	23	0	0	0	0	1	1	//Anillo de Viento
+13	24	0	0	0	0	1	1	//Anillo de Magia
+13	25	0	0	0	0	1	1	//Pendiente de Hielo
+13	26	0	0	0	0	1	1	//Pendiente de Viento
+13	27	0	0	0	0	1	1	//Pendiente de Agua
+13	28	0	0	0	0	1	1	//Pendiente de la Habilidad
+end
+end

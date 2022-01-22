@@ -1,0 +1,23 @@
+//Shop12 [Lora] Thompson
+//
+0   13 0  0 1 1 0 // Double Blade
+0   14 0  0 1 1 0 // Lightning Sword
+0    9 0 0 1 1 0 // Sword of Salamander
+1    7 0  0 1 1 0 // Larkan Axe
+0   11 0  0 1 1 0 // Legendary Sword
+//
+1    8 0  0 1 1 0 // Crescent Axe
+0   12 0  0 1 1 0 // Helical Sword
+2    8 0  0 1 1 0 // Battle Scepter
+2    8 0  0 1 1 0 // Battle Scepter
+2    9 0  0 1 1 0 // Master Scepter
+2    9 0  0 1 1 0 // Master Scepter
+//
+2   10 0  0 1 1 0 // Great Scepter
+2   11 0  0 1 1 0 // Lord Scepter
+0   10 0  0 1 1 0 // Lightsaber
+3    4 0  0 1 1 0 // Serpent Spear
+3    8 0  0 1 1 0 // Great Scythe
+//
+//12  21 0  0 0 0 0 // Scroll of Fire Burst
+end

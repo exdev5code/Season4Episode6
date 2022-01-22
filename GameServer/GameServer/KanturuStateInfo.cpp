@@ -1,0 +1,20 @@
+// KanturuStateInfo.cpp: implementation of the CKanturuStateInfo class.
+//	GS-N	1.00.90	JPN	-	Completed
+//////////////////////////////////////////////////////////////////////
+
+#include "stdafx.h"
+#include "KanturuStateInfo.h"
+
+//////////////////////////////////////////////////////////////////////
+// Construction/Destruction
+//////////////////////////////////////////////////////////////////////
+
+CKanturuStateInfo::CKanturuStateInfo()
+{
+	this->ResetTimeInfo();
+}
+
+CKanturuStateInfo::~CKanturuStateInfo()
+{
+	return;
+}

@@ -1,0 +1,32 @@
+//------------------------------------------------------//
+//		  Infinity Arrow Options	        //
+//------------------------------------------------------//
+[SkillInfo]
+InfinityArrowSkillTime 			= 600
+InfinityArrowUseLevel 			= 220
+InfinityArraowMPConsumptionPlus0 	= 10
+InfinityArraowMPConsumptionPlus1 	= 12
+InfinityArraowMPConsumptionPlus2 	= 14
+
+//------------------------------------------------------//
+//		   Fire Scream Options		        //
+//------------------------------------------------------//
+[SkillInfo]
+FireScreamSkill				= 1
+FireScreamExplosionAttackDistance 	= 2
+FireScreamExplosionDamage 		= 3000
+FireScreamExplosionRate			= 3000
+FireScreamMaxAttackCountSameSerial 	= 3
+FireScreamSerialInitCount 		= 100
+CheckFireScreamSerial 			= 1
+
+//------------------------------------------------------//
+//		   Soul Barrier Options		        //
+//------------------------------------------------------//
+[SkillInfo]
+SoulBarrierManaRate_Level0		= 1
+SoulBarrierManaRate_Level1		= 5
+SoulBarrierManaRate_Level2		= 10
+SoulBarrierManaRate_Level3		= 15
+SoulBarrierManaRate_Level4		= 20
+SoulBarrierManaRate_Level5		= 25

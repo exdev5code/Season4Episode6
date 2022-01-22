@@ -1,0 +1,38 @@
+//--------------------------------------------------------//
+//      Lvl    Map	X1	Y1	X2	Y2        //
+//--------------------------------------------------------//
+	0	0	1	1	255	255   // Lorencia
+	15	2	1	1	255	255   // Devias
+	0	3	1	1	255	255   // Noria
+	130	8	1	1	255	255   // Tarkan
+	60	7	1	1	255	255   // Atlans
+	160	10	1	1	255	255   // Icarus
+	20	1	1	137	255	255   // Dungeon
+	20	1	1	1	255	40    // Dungeon
+	20	1	60	43	255	133   // Dungeon
+	20	1	1	46	50	131   // Dungeon
+	40	4	153	14	255	145   // LostTower
+	40	4	158	159	250	249   // LostTower
+	40	4	78	161	139	251   // LostTower
+	50	4	78	81	139	142   // LostTower
+	50	4	79	2	138	61    // LostTower
+	50	4	1	2	60	61    // LostTower
+	50	4	1	82	61	250   // LostTower
+	130	33	72	5	245	179   // Aida
+	0	34	9	10	242	244   // CryWolf
+	10	30	1	1	255	255   // Valley of Loren
+	150	37	1	1	255	255   // Kanturu
+	220	38	1	1	255	255   // Kanturu Remain
+	220	45	1	1	255	255   // Illusion Temple
+	271	46	1	1	255	255   // Illusion Temple
+	321	47	1	1	255	255   // Illusion Temple
+	351	48	1	1	255	255   // Illusion Temple
+	381	49	1	1	255	255   // Illusion Temple
+	400	50	1	1	255	255   // Illusion Temple
+	350	41	1	1	1	1     // Illusion Temple
+	350	42	1	1	1	1     // Illusion Temple
+	0	51	1	1	255	255   // Elbeland
+	400	56	1	1	255	255   // Swamp of Calmness
+	280	57	1	1	255	255   // Raklion
+	280	58	1	1	255	255   // Raklion Hatchery
+	0	62	1	1	255	255   // Santa Village

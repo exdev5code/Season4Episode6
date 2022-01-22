@@ -1,0 +1,276 @@
+// Firecracker & Heart of Love
+
+12 15 0 0 0 0 // Jewel of Chaos
+14 14 0 0 0 0 // Jewel of Soul
+14 13 0 0 0 0 // Jewel of Bless
+14 28 5 0 0 0 // Lost Map +5
+14 28 6 0 0 0 // Lost Map +6
+14 28 7 0 0 0 // Lost Map +7
+13 2 0 0 0 0 // Horn of Uniria
+7 5 7 0 0 0 // Leather Helm
+8 5 7 0 0 0 // Leather Armor
+9 5 7 0 0 0 // Leather Pants
+10 5 7 0 0 0 // Leather Gloves
+0 4 7 0 0 0 // Sword Of Assassin
+0 6 7 0 0 0 // Gladius
+0 8 7 0 0 0 // Serpant Sword
+0 5 7 0 0 0 // Blade
+0 11 7 0 0 0 // Legendary Sword
+0 12 7 0 0 0 // Heliacal Sword
+0 15 7 0 0 0 // Giant Sword
+0 14 7 0 0 0 // Lightning Sword
+1 3 7 0 0 0 // Tomahawk
+1 4 7 0 0 0 // Fairy Axe
+1 5 7 0 0 0 // Battle Axe
+1 6 7 0 0 0 // Nikkea Axe
+3 3 7 0 0 0 // Great Trident
+3 8 7 0 0 0 // Great Scythe
+3 0 7 0 0 0 // Light Spear
+2 2 7 0 0 0 // Flail
+2 3 7 0 0 0 // Great Warhammer
+6 6 7 0 0 0 // Skull Shield
+6 9 7 0 0 0 // Plate Shield
+6 10 7 0 0 0 // Large Round Shield
+6 4 7 0 0 0 // Buckler
+6 7 7 0 0 0 // Spike Shield
+6 2 7 0 0 0 // Kite Shield
+6 8 7 0 0 0 // Tower Shield
+6 11 7 0 0 0 // Serpent Shield
+6 12 7 0 0 0 // Bronze Shield
+5 1 7 0 0 0 // Angelic Staff
+5 0 7 0 0 0 // Skull Staff
+5 2 7 0 0 0 // Serpent Staff
+5 3 7 0 0 0 // Lightning Staff
+5 4 7 0 0 0 // Gorgon Staff
+4 11 7 0 0 0 // Light Crossbow
+4 12 7 0 0 0 // Serpent Crossbow
+4 10 7 0 0 0 // Arquebus
+4 3 7 0 0 0 // Battle Bow
+4 4 7 0 0 0 // Tiger Bow
+4 2 7 0 0 0 // Elven Bow
+11 5 7 0 0 0 // Leather Boots
+6 3 7 0 0 0 // Elven Shield
+2 8 7 0 0 0 // Battle Scepter
+2 9 7 0 0 0 // Master Scepter
+7 0 7 0 0 0 // Bronze Helm
+8 0 7 0 0 0 // Bronze Armor
+9 0 7 0 0 0 // Bronze Pants
+10 0 7 0 0 0 // Bronze Gloves
+11 0 7 0 0 0 // Bronze Boots
+7 6 7 0 0 0 // Scale Helm
+8 6 7 0 0 0 // Scale Armor
+9 6 7 0 0 0 // Scale Pants
+10 6 7 0 0 0 // Scale Gloves
+11 6 7 0 0 0 // Scale Boots
+7 2 7 0 0 0 // Pad Helm
+8 2 7 0 0 0 // Pad Armor
+9 2 7 0 0 0 // Pad Pants
+10 2 7 0 0 0 // Pad Gloves
+11 2 7 0 0 0 // Pad Boots
+7 4 7 0 0 0 // Bone Helm
+8 4 7 0 0 0 // Bone Armor
+9 4 7 0 0 0 // Bone Pants
+10 4 7 0 0 0 // Bone Gloves
+11 4 7 0 0 0 // Bone Boots
+7 7 7 0 0 0 // Sphinx Helm
+8 7 7 0 0 0 // Sphinx Armor
+9 7 7 0 0 0 // Sphinx Pants
+10 7 7 0 0 0 // Sphinx Gloves
+11 7 7 0 0 0 // Sphinx Boots
+7 10 7 0 0 0 // Vine Helm
+8 10 7 0 0 0 // Vine Armor
+9 10 7 0 0 0 // Vine Pants
+10 10 7 0 0 0 // Vine Gloves
+11 10 7 0 0 0 // Vine Boots
+7 11 7 0 0 0 // Silk Helm
+8 11 7 0 0 0 // Silk Armor
+9 11 7 0 0 0 // Silk Pants
+10 11 7 0 0 0 // Silk Gloves
+11 11 7 0 0 0 // Silk Boots
+7 12 7 0 0 0 // Wind Helm
+8 12 7 0 0 0 // Wind Armor
+9 12 7 0 0 0 // Wind Pants
+10 12 7 0 0 0 // Wind Gloves
+11 12 7 0 0 0 // Wind Boots
+7 5 8 0 0 0 // Leather Helm
+8 5 8 0 0 0 // Leather Armor
+9 5 8 0 0 0 // Leather Pants
+10 5 8 0 0 0 // Leather Gloves
+0 4 8 0 0 0 // Sword Of Assassin
+0 6 8 0 0 0 // Gladius
+0 8 8 0 0 0 // Serpant Sword
+0 5 8 0 0 0 // Blade
+0 11 8 0 0 0 // Legendary Sword
+0 12 8 0 0 0 // Heliacal Sword
+0 15 8 0 0 0 // Giant Sword
+0 14 8 0 0 0 // Lightning Sword
+1 3 8 0 0 0 // Tomahawk
+1 4 8 0 0 0 // Fairy Axe
+1 5 8 0 0 0 // Battle Axe
+1 6 8 0 0 0 // Nikkea Axe
+3 3 8 0 0 0 // Great Trident
+3 8 8 0 0 0 // Great Scythe
+3 0 8 0 0 0 // Light Spear
+2 2 8 0 0 0 // Flail
+2 3 8 0 0 0 // Great Warhammer
+6 6 8 0 0 0 // Skull Shield
+6 9 8 0 0 0 // Plate Shield
+6 10 8 0 0 0 // Large Round Shield
+6 4 8 0 0 0 // Buckler
+6 7 8 0 0 0 // Spike Shield
+6 2 8 0 0 0 // Kite Shield
+6 8 8 0 0 0 // Tower Shield
+6 11 8 0 0 0 // Serpent Shield
+6 12 8 0 0 0 // Bronze Shield
+5 1 8 0 0 0 // Angelic Staff
+5 0 8 0 0 0 // Skull Staff
+5 2 8 0 0 0 // Serpent Staff
+5 3 8 0 0 0 // Lightning Staff
+5 4 8 0 0 0 // Gorgon Staff
+4 11 8 0 0 0 // Light Crossbow
+4 12 8 0 0 0 // Serpent Crossbow
+4 10 8 0 0 0 // Arquebus
+4 3 8 0 0 0 // Battle Bow
+4 4 8 0 0 0 // Tiger Bow
+4 2 8 0 0 0 // Elven Bow
+11 5 8 0 0 0 // Leather Boots
+6 3 8 0 0 0 // Elven Shield
+2 8 8 0 0 0 // Battle Scepter
+2 9 8 0 0 0 // Master Scepter
+7 0 8 0 0 0 // Bronze Helm
+8 0 8 0 0 0 // Bronze Armor
+9 0 8 0 0 0 // Bronze Pants
+10 0 8 0 0 0 // Bronze Gloves
+11 0 8 0 0 0 // Bronze Boots
+7 6 8 0 0 0 // Scale Helm
+8 6 8 0 0 0 // Scale Armor
+9 6 8 0 0 0 // Scale Pants
+10 6 8 0 0 0 // Scale Gloves
+11 6 8 0 0 0 // Scale Boots
+7 2 8 0 0 0 // Pad Helm
+8 2 8 0 0 0 // Pad Armor
+9 2 8 0 0 0 // Pad Pants
+10 2 8 0 0 0 // Pad Gloves
+11 2 8 0 0 0 // Pad Boots
+7 4 8 0 0 0 // Bone Helm
+8 4 8 0 0 0 // Bone Armor
+9 4 8 0 0 0 // Bone Pants
+10 4 8 0 0 0 // Bone Gloves
+11 4 8 0 0 0 // Bone Boots
+7 7 8 0 0 0 // Sphinx Helm
+8 7 8 0 0 0 // Sphinx Armor
+9 7 8 0 0 0 // Sphinx Pants
+10 7 8 0 0 0 // Sphinx Gloves
+11 7 8 0 0 0 // Sphinx Boots
+7 10 8 0 0 0 // Vine Helm
+8 10 8 0 0 0 // Vine Armor
+9 10 8 0 0 0 // Vine Pants
+10 10 8 0 0 0 // Vine Gloves
+11 10 8 0 0 0 // Vine Boots
+7 11 8 0 0 0 // Silk Helm
+8 11 8 0 0 0 // Silk Armor
+9 11 8 0 0 0 // Silk Pants
+10 11 8 0 0 0 // Silk Gloves
+11 11 8 0 0 0 // Silk Boots
+7 12 8 0 0 0 // Wind Helm
+8 12 8 0 0 0 // Wind Armor
+9 12 8 0 0 0 // Wind Pants
+10 12 8 0 0 0 // Wind Gloves
+11 12 8 0 0 0 // Wind Boots
+7 5 9 0 0 0 // Leather Helm
+8 5 9 0 0 0 // Leather Armor
+9 5 9 0 0 0 // Leather Pants
+10 5 9 0 0 0 // Leather Gloves
+0 4 9 0 0 0 // Sword Of Assassin
+0 6 9 0 0 0 // Gladius
+0 8 9 0 0 0 // Serpant Sword
+0 5 9 0 0 0 // Blade
+0 11 9 0 0 0 // Legendary Sword
+0 12 9 0 0 0 // Heliacal Sword
+0 15 9 0 0 0 // Giant Sword
+0 14 9 0 0 0 // Lightning Sword
+1 3 9 0 0 0 // Tomahawk
+1 4 9 0 0 0 // Fairy Axe
+1 5 9 0 0 0 // Battle Axe
+1 6 9 0 0 0 // Nikkea Axe
+3 3 9 0 0 0 // Great Trident
+3 8 9 0 0 0 // Great Scythe
+3 0 9 0 0 0 // Light Spear
+2 2 9 0 0 0 // Flail
+2 3 9 0 0 0 // Great Warhammer
+6 6 9 0 0 0 // Skull Shield
+6 9 9 0 0 0 // Plate Shield
+6 10 9 0 0 0 // Large Round Shield
+6 4 9 0 0 0 // Buckler
+6 7 9 0 0 0 // Spike Shield
+6 2 9 0 0 0 // Kite Shield
+6 8 9 0 0 0 // Tower Shield
+6 11 9 0 0 0 // Serpent Shield
+6 12 9 0 0 0 // Bronze Shield
+5 1 9 0 0 0 // Angelic Staff
+5 0 9 0 0 0 // Skull Staff
+5 2 9 0 0 0 // Serpent Staff
+5 3 9 0 0 0 // Lightning Staff
+5 4 9 0 0 0 // Gorgon Staff
+4 11 9 0 0 0 // Light Crossbow
+4 12 9 0 0 0 // Serpent Crossbow
+4 10 9 0 0 0 // Arquebus
+4 3 9 0 0 0 // Battle Bow
+4 4 9 0 0 0 // Tiger Bow
+4 2 9 0 0 0 // Elven Bow
+11 5 9 0 0 0 // Leather Boots
+6 3 9 0 0 0 // Elven Shield
+2 8 9 0 0 0 // Battle Scepter
+2 9 9 0 0 0 // Master Scepter
+7 0 9 0 0 0 // Bronze Helm
+8 0 9 0 0 0 // Bronze Armor
+9 0 9 0 0 0 // Bronze Pants
+10 0 9 0 0 0 // Bronze Gloves
+11 0 9 0 0 0 // Bronze Boots
+7 6 9 0 0 0 // Scale Helm
+8 6 9 0 0 0 // Scale Armor
+9 6 9 0 0 0 // Scale Pants
+10 6 9 0 0 0 // Scale Gloves
+11 6 9 0 0 0 // Scale Boots
+7 2 9 0 0 0 // Pad Helm
+8 2 9 0 0 0 // Pad Armor
+9 2 9 0 0 0 // Pad Pants
+10 2 9 0 0 0 // Pad Gloves
+11 2 9 0 0 0 // Pad Boots
+7 4 9 0 0 0 // Bone Helm
+8 4 9 0 0 0 // Bone Armor
+9 4 9 0 0 0 // Bone Pants
+10 4 9 0 0 0 // Bone Gloves
+11 4 9 0 0 0 // Bone Boots
+7 7 9 0 0 0 // Sphinx Helm
+8 7 9 0 0 0 // Sphinx Armor
+9 7 9 0 0 0 // Sphinx Pants
+10 7 9 0 0 0 // Sphinx Gloves
+11 7 9 0 0 0 // Sphinx Boots
+7 10 9 0 0 0 // Vine Helm
+8 10 9 0 0 0 // Vine Armor
+9 10 9 0 0 0 // Vine Pants
+10 10 9 0 0 0 // Vine Gloves
+11 10 9 0 0 0 // Vine Boots
+7 11 9 0 0 0 // Silk Helm
+8 11 9 0 0 0 // Silk Armor
+9 11 9 0 0 0 // Silk Pants
+10 11 9 0 0 0 // Silk Gloves
+11 11 9 0 0 0 // Silk Boots
+7 12 9 0 0 0 // Wind Helm
+8 12 9 0 0 0 // Wind Armor
+9 12 9 0 0 0 // Wind Pants
+10 12 9 0 0 0 // Wind Gloves
+11 12 9 0 0 0 // Wind Boots
+7 39 8 0 0 0 // Violent Wind
+7 40 8 0 0 0 // Red Wing
+8 39 8 0 0 0 // Violent Wind
+8 40 8 0 0 0 // Red Wing
+9 39 8 0 0 0 // Violent Wind
+9 40 8 0 0 0 // Red Wing
+10 39 8 0 0 0 // Violent Wind
+10 40 8 0 0 0 // Red Wing
+11 39 8 0 0 0 // Violent Wind
+11 40 8 0 0 0 // Red Wing
+5 14 9 0 0 0 // Mistical Staff
+5 15 9 0 0 0 // Violent Wind Staff

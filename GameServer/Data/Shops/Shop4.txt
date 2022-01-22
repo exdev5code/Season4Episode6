@@ -1,0 +1,24 @@
+//Shop4 [Lora] Wandering 130X126
+//
+0   13 5  0 1 1 0 // Double Blade
+0   14 5  0 1 1 0 // Lightning Sword
+0    9 5  0 1 1 0 // Sword of Salamander
+1    7 5  0 1 1 0 // Larkan Axe
+0   11 5  0 1 1 0 // Legendary Sword
+//
+1    8 6  0 1 1 0 // Crescent Axe
+0   12 5  0 1 1 0 // Helical Sword
+2    8 2  0 1 1 0 // Battle Scepter
+2    8 4  0 1 1 0 // Battle Scepter
+2    9 1  0 1 1 0 // Master Scepter
+2    9 5  0 1 1 0 // Master Scepter
+//
+0   10 6  0 1 1 0 // Lightsaber
+3    4 6  0 1 1 0 // Serpent Spear
+3    8 6  0 1 1 0 // Great Scythe
+2   10 5  0 1 1 0 // Great Scepter
+2   11 5  0 1 1 0 // Lord Scepter
+//
+//12  21 0  0 0 0 0 // Scroll of Fire Burst
+end
+

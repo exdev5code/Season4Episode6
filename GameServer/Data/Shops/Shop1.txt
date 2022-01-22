@@ -1,0 +1,62 @@
+// Shop1 [Lorencia] Bar
+//
+14  1 0  30 0 0 0 //Small Healing
+14  2 0  30 0 0 0 //Medium Heal
+14  3 0  30 0 0 0 //Large Healing
+14  3 0  60 0 0 0 //Large Healing
+14  4 0  30 0 0 0 //Small Mana
+14  5 0  30 0 0 0 //Medium Mana
+14  6 0  30 0 0 0 //Large Mana
+14  6 0  60 0 0 0 //Large Mana
+//
+14  1 7  60 0 0 0 //Small Healing +7
+14  2 7  60 0 0 0 //Medium Heal +7
+14  3 7  90 0 0 0 //Large Healing +7
+14  3 13 255 0 0 0 //Large Healing +13
+14  4 7  60 0 0 0 //Small Mana +7
+14  5 7  60 0 0 0 //Medium Mana +7
+14  6 7  90 0 0 0 //Large Mana +7
+14  6 13 255 0 0 0 //Large Mana +13
+//
+14 10 0   0 0 0 0 //Town Scroll
+14  9 0   0 0 0 0 //Alcohol
+14  9 1   0 0 0 0 //Olive of Love
+14 20 0   0 0 0 0 //Love Charm
+//
+ 4 15 0 100 0 0 0 //Arrows
+ 4 15 2 255 0 0 1 //Arrows
+ 4 15 4 255 0 0 1 //Arrows
+ 4 15 13 255 0 0 1 //Arrows
+14 8 13 255 0 0 0 //Antidote Tonic +13
+ 4  7 0 100 0 0 0 //Bolts
+ 4  7 2 255 0 0 1 //Bolts+2
+ 4  7 4 255 0 0 1 //Bolts+4
+ 4  7 13 255 0 0 1 //Bolts+6
+//
+13  9 1  51 0 0 1 //Ring of Poison
+13  8 1  51 0 0 1 //Ring of Ice
+13 21 1  51 0 0 1 //Ring of Fire
+13 24 1  51 0 0 1 //Ring of Magic
+13 12 1  51 0 0 1 //Pendant of Lightning
+13  1 0 255 0 0 0 //Imp-Satan
+13  2 0 255 0 0 0 //Horn of Uniria
+13  0 0 255 0 0 0 //Guardian Angel
+13 	18	1	0	 0	 0	 0	 // blood Castle
+13 	18	2	0	 0	 0	 0	 // blood Castle
+13 	18	3	0	 0	 0	 0	 // blood Castle
+13 	18	4	0	 0	 0	 0	 // blood Castle
+13 	18	5	0	 0	 0	 0	 // blood Castle
+13 	18	6	0	 0	 0	 0	 // blood Castle
+13 	18	7	0	 0	 0	 0	 // blood Castle
+13 29 0 0   0 0 0 //Armor of Guardman
+
+14 	19	1	0	 0	 0	 0	 // Devil Square
+14 	19	2	0	 0	 0	 0	 // Devil Square
+14 	19	3	0	 0	 0	 0	 // Devil Square
+14 	19	4	0	 0	 0	 0	 // Devil Square
+14 	19	5	0	 0	 0	 0	 // Devil Square
+14 	19	6	0	 0	 0	 0	 // Devil Square
+14 	19	7	0	 0	 0	 0	 // Devil Square
+
+
+end

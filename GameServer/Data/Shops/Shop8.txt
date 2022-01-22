@@ -1,0 +1,28 @@
+// [Davias] Zienna
+//
+7   1 0  74 0 1 0 // Dragon Helm
+7  26 0  62 0 1 0 // Adamantine Helm
+7  14 0  51 0 1 0 // Guardian Helm
+8  15 0  86 0 1 0 // Storm Crow Armor
+//
+10  1 0  74 0 1 0 // Dragon Gloves
+10 26 0  62 0 1 0 // Adamantine Gloves
+10 14 0  51 0 1 0 // Guardian Gloves
+10 15 0  86 0 1 0 // Storm Crow Gloves
+//
+8   1 0  74 0 1 0 // Dragon Armor
+8  26 0  56 0 1 0 // Adamantine Armor
+8  14 0  56 0 1 0 // Guardian Armor
+9  15 0  56 0 1 0 // Storm Crow Pants
+//
+9  14 0  56 0 1 0 // Guardian Pants
+9   1 0 74 0 1 0 // Dragon Pants
+9  26 0  62 0 1 0 // Adamantine Pants
+11 15 0  86 0 1 0 // Storm Crow Boots
+//
+11 14 0  56 0 1 0 // Guardian Boots
+11  1 0  74 0 1 0 // Dragon Boots
+11 26 0  62 0 1 0 // Adamantine Boots
+
+0 31 0  0 1 1 0 // Adamantine Boots
+end

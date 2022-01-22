@@ -1,0 +1,74 @@
+//  Red Chaos Box
+
+//============================
+//Map Drop
+//Map	Drop	MinDrop	MaxDrop
+//============================
+0
+0	0	0	1000	//Lorencia
+1	0	0	1000	//Dungeon
+2	0	0	1000	//Devias
+3	0	0	1000	//Noria
+4	0	0	1000	//LostTower
+5	0	0	1000	//Exile
+6	0	0	1000	//Arena
+7	0	0	1000	//Atlans
+8	0	0	1000	//Tarkan
+9	0	0	1000	//DevilSquare
+10	0	0	1000	//Icarus
+end
+
+//=========================================================================
+//Drop Options
+//Name			ZenAmount	ItemType	Index	ItemLvl	DropRate NormDrop	ExcDrop
+//=========================================================================
+1
+"Red Chaos Box"		1000000		0	0	 0	 0	 100	  	1
+end
+
+//==================================================================
+//Item Drops
+//Type	Item	MinLvl	MaxLvl	Skill	Luck	Option	Exc	Name
+//==================================================================
+2
+10000
+//=========
+//8 ранг вещей
+//=========
+0	22	0	0	1	1	1	1	//Bone Blade
+0	23	0	0	1	1	1	1	//Explosion Blade
+5	12	0	0	0	1	1	1	//Grand Viper Staff
+5	20	0	0	0	1	1	1	//Lilium Stick
+2	14	0	0	1	1	1	1	//Solay Scepter
+4	21	0	0	1	1	1	1	//Sylph Wind Bow
+7	29	0	0	0	1	1	1	//Dragon Knight
+7	30	0	0	0	1	1	1	//Venom Mist
+7	31	0	0	0	1	1	1	//Sylphid Ray
+7	44	0	0	0	1	1	1	//Lilium
+7	33	0	0	0	1	1	1	//Sunlight
+8	29	0	0	0	1	1	1	//Dragon Knight
+8	30	0	0	0	1	1	1	//Venom Mist
+8	31	0	0	0	1	1	1	//Sylphid Ray
+8	44	0	0	0	1	1	1	//Lilium
+8	32	0	0	0	1	1	1	//Volcano MG
+8	33	0	0	0	1	1	1	//Sunlight
+9	29	0	0	0	1	1	1	//Dragon Knight
+9	30	0	0	0	1	1	1	//Venom Mist
+9	31	0	0	0	1	1	1	//Sylphid Ray
+9	44	0	0	0	1	1	1	//Lilium
+9	32	0	0	0	1	1	1	//Volcano MG
+9	33	0	0	0	1	1	1	//Sunlight
+10	29	0	0	0	1	1	1	//Dragon Knight
+10	30	0	0	0	1	1	1	//Venom Mist
+10	31	0	0	0	1	1	1	//Sylphid Ray
+10	44	0	0	0	1	1	1	//Lilium
+10	32	0	0	0	1	1	1	//Volcano MG
+10	33	0	0	0	1	1	1	//Sunlight
+11	29	0	0	0	1	1	1	//Dragon Knight
+11	30	0	0	0	1	1	1	//Venom Mist
+11	31	0	0	0	1	1	1	//Sylphid Ray
+11	44	0	0	0	1	1	1	//Lilium
+11	32	0	0	0	1	1	1	//Volcano MG
+11	33	0	0	0	1	1	1	//Sunlight
+end
+end

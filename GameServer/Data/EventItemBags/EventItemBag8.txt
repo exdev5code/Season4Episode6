@@ -1,0 +1,92 @@
+// Box of Kundun +1
+
+//--------------------------------------//
+// Drop Options                         //
+//--------------------------------------//
+1
+//        Name         ZenAmount    ItemType  Index   ItemLvl DropRate NormDrop ExcDrop
+     "BoxOfKundun1"	  0		0	0	 0	 0	 100	  1
+end
+
+//--------------------------------------//
+// Item Drops                           //
+//--------------------------------------//
+2
+//  ItemType  Index  MinLvl MaxLvl    Skill    Luck   Option  Excellent
+
+10000
+0	0	0	0	1	1	1	1	//Kris
+0	1	0	0	1	1	1	1	//Short Sword
+0	2	0	0	1	1	1	1	//Rapier
+0	3	0	0	1	1	1	1	//Katana
+0	4	0	0	1	1	1	1	//Sword of Assassin
+1	0	0	0	1	1	1	1	//Small Axe
+1	1	0	0	1	1	1	1	//Hand Axe
+1	2	0	0	1	1	1	1	//Double Axe
+1	3	0	0	1	1	1	1	//Tomahawk
+2	0	0	0	1	1	1	1	//Mace
+2	1	0	0	1	1	1	1	//Morning Star
+2	2	0	0	1	1	1	1	//Flail
+3	1	0	0	1	1	1	1	//Spear
+3	2	0	0	1	1	1	1	//Dragon Lance
+3	5	0	0	1	1	1	1	//Double Poleaxe
+3	6	0	0	1	1	1	1	//Halberd
+3	7	0	0	1	1	1	1	//Berdysh
+4	0	0	0	1	1	1	1	//Short Bow
+4	1	0	0	1	1	1	1	//Bow
+4	2	0	0	1	1	1	1	//Elven Bow
+4	8	0	0	1	1	1	1	//Crossbow
+4	9	0	0	1	1	1	1	//Golden Crossbow
+5	0	0	0	0	1	1	1	//Skull Staff
+5	1	0	0	0	1	1	1	//Angelic Staff
+5	2	0	0	0	1	1	1	//Serpent Staff
+5	14	0	0	0	1	1	1	//Mystery Stick
+5	21	0	0	1	1	1	1	//Book of Sahamut
+6	0	0	0	1	1	1	1	//Small Shield
+6	1	0	0	1	1	1	1	//Horn Shield
+6	2	0	0	1	1	1	1	//Kite Shield
+6	3	0	0	1	1	1	1	//Elven Shield
+6	4	0	0	1	1	1	1	//Buckler
+7	5	0	0	0	1	1	1	//Leather
+7	0	0	0	0	1	1	1	//Bronze
+7	2	0	0	0	1	1	1	//Pad
+7	10	0	0	0	1	1	1	//Vine
+7	11	0	0	0	1	1	1	//Silk
+7	39	0	0	0	1	1	1	//Violent Wind
+8	5	0	0	0	1	1	1	//Leather
+8	0	0	0	0	1	1	1	//Bronze
+8	2	0	0	0	1	1	1	//Pad
+8	10	0	0	0	1	1	1	//Vine
+8	11	0	0	0	1	1	1	//Silk
+8	39	0	0	0	1	1	1	//Violent Wind
+9	5	0	0	0	1	1	1	//Leather
+9	0	0	0	0	1	1	1	//Bronze
+9	2	0	0	0	1	1	1	//Pad
+9	10	0	0	0	1	1	1	//Vine
+9	11	0	0	0	1	1	1	//Silk
+9	39	0	0	0	1	1	1	//Violent Wind
+10	5	0	0	0	1	1	1	//Leather
+10	0	0	0	0	1	1	1	//Bronze
+10	2	0	0	0	1	1	1	//Pad
+10	10	0	0	0	1	1	1	//Vine
+10	11	0	0	0	1	1	1	//Silk
+10	39	0	0	0	1	1	1	//Violent Wind
+11	5	0	0	0	1	1	1	//Leather
+11	0	0	0	0	1	1	1	//Bronze
+11	2	0	0	0	1	1	1	//Pad
+11	10	0	0	0	1	1	1	//Vine
+11	11	0	0	0	1	1	1	//Silk
+11	39	0	0	0	1	1	1	//Violent Wind
+//=========
+// Rings Pendants
+//=========
+13	21	0	0	0	0	1	1	//Anillo de Fuego
+13	22	0	0	0	0	1	1	//Anillo de Tierra
+13	23	0	0	0	0	1	1	//Anillo de Viento
+13	24	0	0	0	0	1	1	//Anillo de Magia
+13	25	0	0	0	0	1	1	//Pendiente de Hielo
+13	26	0	0	0	0	1	1	//Pendiente de Viento
+13	27	0	0	0	0	1	1	//Pendiente de Agua
+13	28	0	0	0	0	1	1	//Pendiente de la Habilidad
+end
+end

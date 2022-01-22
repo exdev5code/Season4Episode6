@@ -1,0 +1,30 @@
+//Index	Item	   Level	   Durabil.	   Skill	    Luck	 Options	  exe	    Name Item
+7		39		0		255		0		1		0	//Mistery Helm
+7		40		0		255		0		1		0	//Red Wing Helm
+7		41		0		255		0		1		0	//Ancient Helm
+5		14		0		255		0		1		0	//Mistery Staff
+5		15		0		255		0		1		0	//Violent Wind Staff
+
+8		39		0		255		0		1		0	//Mistery Armor
+8		40		0		255		0		1		0	//Red Wing Armor
+8		41		0		255		0		1		0	//Ancient Armor
+
+9		39		0		255		0		1		0	//Mistery Pants
+9		40		0		255		0		1		0	//Red Wing Pants
+9		41		0		255		0		1		0	//Ancient Pants
+
+5		16		0		255		0		1		0	//Red Wing Staff
+5		17		0		255		0		1		0	//Ancient Staff
+
+10		39		0		255		0		1		0	//Mistery Gloves
+10		40		0		255		0		1		0	//Red Wing Gloves
+10		41		0		255		0		1		0	//Ancient Gloves
+
+11		39		0		255		0		1		0	//Mistery Boots
+11		40		0		255		0		1		0	//Red Wing Boots
+11		41		0		255		0		1		0	//Ancient Boots
+
+5		21		0		255		1		1		0	//Book of Sahamutt
+5		22		0		255		1		1		0	//Book of Neil
+5		23		0		255		1		1		0	//Book of Ghost Phantom
+end

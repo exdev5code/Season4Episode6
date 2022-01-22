@@ -1,0 +1,95 @@
+//  Purple Chaos Box
+
+//============================
+//Map Drop
+//Map	Drop	MinDrop	MaxDrop
+//============================
+0
+0	0	0	1000	//Lorencia
+1	0	0	1000	//Dungeon
+2	0	0	1000	//Devias
+3	0	0	1000	//Noria
+4	0	0	1000	//LostTower
+5	0	0	1000	//Exile
+6	0	0	1000	//Arena
+7	0	0	1000	//Atlans
+8	0	0	1000	//Tarkan
+9	0	0	1000	//DevilSquare
+10	0	0	1000	//Icarus
+end
+
+//=========================================================================
+//Drop Options
+//Name			ZenAmount	ItemType	Index	ItemLvl	DropRate NormDrop	ExcDrop
+//=========================================================================
+1
+"Purple Chaos Box"		1000000		0	0	 0	 0	 100	  	1
+end
+
+//==================================================================
+//Item Drops
+//Type	Item	MinLvl	MaxLvl	Skill	Luck	Option	Exc	Name
+//==================================================================
+2
+10000
+//=========
+//9 ранг вещей
+//=========
+0	26	0	0	1	1	1	1	//Flameberge
+0	27	0	0	1	1	1	1	//Sword Breaker
+0	28	0	0	1	1	1	1	//Rune Bastard Sword
+5	30	0	0	0	1	1	1	//Deady Staff
+5	31	0	0	0	1	1	1	//Imperial Staff
+5	32	0	0	0	1	1	1	//Merlin Stick
+2	17	0	0	1	1	1	1	//Absolute Archangel
+4	23	0	0	1	1	1	1	//Dark Stinger
+6	17	0	0	1	1	1	1	//Crimson Shield
+6	18	0	0	1	1	1	1	//Salamander Shield
+6	19	0	0	1	1	1	1	//Frost Shield
+6	20	0	0	1	1	1	1	//Guardian Shield
+6	21	0	0	1	1	1	1	//Cross Shield
+7	45	0	0	0	1	1	1	//Titan
+7	46	0	0	0	1	1	1	//Brave
+7	52	0	0	0	1	1	1	//Hades
+7	49	0	0	0	1	1	1	//Seraphim
+7	50	0	0	0	1	1	1	//Divine
+7	53	0	0	0	1	1	1	//Queen
+7	51	0	0	0	1	1	1	//Royal
+8	45	0	0	0	1	1	1	//Titan
+8	46	0	0	0	1	1	1	//Brave
+8	52	0	0	0	1	1	1	//Hades
+8	49	0	0	0	1	1	1	//Seraphim
+8	50	0	0	0	1	1	1	//Divine
+8	53	0	0	0	1	1	1	//Queen
+8	47	0	0	0	1	1	1	//Phantom MG
+8	48	0	0	0	1	1	1	//Destroy MG
+8	51	0	0	0	1	1	1	//Royal
+9	45	0	0	0	1	1	1	//Titan
+9	46	0	0	0	1	1	1	//Brave
+9	52	0	0	0	1	1	1	//Hades
+9	49	0	0	0	1	1	1	//Seraphim
+9	50	0	0	0	1	1	1	//Divine
+9	53	0	0	0	1	1	1	//Queen
+9	47	0	0	0	1	1	1	//Phantom MG
+9	48	0	0	0	1	1	1	//Destroy MG
+9	51	0	0	0	1	1	1	//Royal
+10	45	0	0	0	1	1	1	//Titan
+10	46	0	0	0	1	1	1	//Brave
+10	52	0	0	0	1	1	1	//Hades
+10	49	0	0	0	1	1	1	//Seraphim
+10	50	0	0	0	1	1	1	//Divine
+10	53	0	0	0	1	1	1	//Queen
+10	47	0	0	0	1	1	1	//Phantom MG
+10	48	0	0	0	1	1	1	//Destroy MG
+10	51	0	0	0	1	1	1	//Royal
+11	45	0	0	0	1	1	1	//Titan
+11	46	0	0	0	1	1	1	//Brave
+11	52	0	0	0	1	1	1	//Hades
+11	49	0	0	0	1	1	1	//Seraphim
+11	50	0	0	0	1	1	1	//Divine
+11	53	0	0	0	1	1	1	//Queen
+11	47	0	0	0	1	1	1	//Phantom MG
+11	48	0	0	0	1	1	1	//Destroy MG
+11	51	0	0	0	1	1	1	//Royal
+end
+end

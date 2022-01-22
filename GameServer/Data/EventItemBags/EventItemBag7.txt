@@ -1,0 +1,45 @@
+// Silver Medal
+
+0 10 7 0 0 0 // Light Saber
+0 11 7 0 0 0 // Legendary Sword
+0 13 7 0 0 0 // Double Blade
+1 7 7 0 0 0 // Larkan Axe
+2 3 7 0 0 0 // Great Warhammer
+3 0 7 0 0 0 // Light Spear
+3 4 7 0 0 0 // Serpent Spear
+4 11 7 0 0 0 // Light Crossbow
+4 3 7 0 0 0 // Battle Bow
+5 2 7 0 0 0 // Serpent Staff
+5 3 7 0 0 0 // Lightning Staff
+6 6 7 0 0 0 // Skull Shield
+6 5 7 0 0 0 // Dragon Slayer Shield
+7 6 7 0 0 0 // Scale Helm
+8 6 7 0 0 0 // Scale Armor
+9 6 7 0 0 0 // Scale Pants
+10 6 7 0 0 0 // Scale Gloves
+11 6 7 0 0 0 // Scale Boots
+7 8 7 0 0 0 // Brass Helm
+8 8 7 0 0 0 // Brass Armor
+9 8 7 0 0 0 // Brass Pants
+10 8 7 0 0 0 // Brass Gloves
+11 8 7 0 0 0 // Brass Boots
+7 4 7 0 0 0 // Bone Helm
+8 4 7 0 0 0 // Bone Armor
+9 4 7 0 0 0 // Bone Pants
+10 4 7 0 0 0 // Bone Gloves
+11 4 7 0 0 0 // Bone Boots
+13 0 0 0 0 0 // Guardian Angel
+13 1 0 0 0 0 // Imp
+13 2 0 0 0 0 // Horn of Uniria
+14 13 0 0 0 0 // Jewel of Bless
+14 14 0 0 0 0 // Jewel of Soul
+12 15 0 0 0 0 // Jewel of Chaos
+
+7 40 7 0 0 0 // Acnent set sum
+8 40 7 0 0 0 // Acnent set sum
+9 40 7 0 0 0 // Acnent set sum
+10 40 7 0 0 0 // Acnent set sum
+11 40 7 0 0 0 // Acnent set sum
+
+5 14 7 0 0 0 // Mistical Staff
+5 15 7 0 0 0 // Violent Wind Staff

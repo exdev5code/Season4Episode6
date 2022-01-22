@@ -1,0 +1,66 @@
+// Dark Elf
+
+//--------------------------------------//
+// Map Drop                             //
+//--------------------------------------//
+0
+//    Map ID   Drop   Minimal DropRate
+	0	0	0	1000	// Lorencia
+	1	0	0	1000	// Dungeon
+	2	0	0	1000	// Devias
+	3	0	0	1000	// Noria
+	4	0	0	1000	// LostTower
+	5	0	0	1000	// Exile
+	6	0	0	1000	// Arena
+	7	0	0	1000	// Atlans
+	8	0	0	1000	// Tarkan
+	9	0	0	1000	// DevilSquare
+	10	0	0	1000	// Icarus
+end
+
+//--------------------------------------//
+// Drop Options                         //
+//--------------------------------------//
+1
+//        Name         ZenAmount    ItemType  Index   ItemLvl DropRate NormDrop ExcDrop
+	"DarkElf"	1000000		0	0	0	 0	 100	  1
+end
+
+//--------------------------------------//
+// Item Drops                           //
+//--------------------------------------//
+2
+//  ItemType  Index   MinLvl  MaxLvl  Skill    Luck   Option  Excellent
+//=========
+//5 ранг вещей
+//=========
+7	34	0	0	0	1	1	1	//Ashcrow
+7	35	0	0	0	1	1	1	//Eclipse
+7	36	0	0	0	1	1	1	//Iris
+7	38	0	0	0	1	1	1	//Glorious
+7	42	0	0	0	1	1	1	//Black Rose
+8	34	0	0	0	1	1	1	//Ashcrow
+8	35	0	0	0	1	1	1	//Eclipse
+8	36	0	0	0	1	1	1	//Iris
+8	37	0	0	0	1	1	1	//Valiant MG
+8	38	0	0	0	1	1	1	//Glorious
+8	42	0	0	0	1	1	1	//Black Rose
+9	34	0	0	0	1	1	1	//Ashcrow
+9	35	0	0	0	1	1	1	//Eclipse
+9	36	0	0	0	1	1	1	//Iris
+9	37	0	0	0	1	1	1	//Valiant MG
+9	38	0	0	0	1	1	1	//Glorious
+9	42	0	0	0	1	1	1	//Black Rose
+10	34	0	0	0	1	1	1	//Ashcrow
+10	35	0	0	0	1	1	1	//Eclipse
+10	36	0	0	0	1	1	1	//Iris
+10	37	0	0	0	1	1	1	//Valiant MG
+10	38	0	0	0	1	1	1	//Glorious
+10	42	0	0	0	1	1	1	//Black Rose
+11	34	0	0	0	1	1	1	//Ashcrow
+11	35	0	0	0	1	1	1	//Eclipse
+11	36	0	0	0	1	1	1	//Iris
+11	37	0	0	0	1	1	1	//Valiant MG
+11	38	0	0	0	1	1	1	//Glorious
+11	42	0	0	0	1	1	1	//Black Rose
+end

@@ -1,0 +1,1 @@
+void Message_Glob(int ColorId, char* Message);

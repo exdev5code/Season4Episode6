@@ -1,0 +1,20 @@
+//Shop11 [Lora] Alex 63X130
+//
+6   0 0  30 0 1 0 // Round Shield
+6   1 0  30 0 1 0 // Horn Shield
+6   2 0  33 0 1 0 // Kite Shield
+6   5 0  45 1 1 0 // Dragon Slayer Shield
+//
+6   6 0  35 1 1 0 // Skull Shield
+6   7 0  41 1 1 0 // Spiked Shield
+6   8 0  47 1 1 0 // Tower Shield
+6   9 0  39 1 1 0 // Plate Shield
+//
+6  10 0  36 1 1 0 // Large Round Shield
+6  11 0  49 1 1 0 // Serpent Shield
+6  12 0  53 1 1 0 // Bronze Shield
+6  13 0  61 1 1 0 // Dragon Shield
+//
+6  15 0  56 0 1 0 // Grand Soul Shield
+
+end

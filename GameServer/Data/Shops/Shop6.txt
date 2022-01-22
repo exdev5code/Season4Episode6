@@ -1,0 +1,31 @@
+// Shop6 [Devias] Bar
+//
+14  1 0  30 0 0 0 //Small Healing
+14  2 0  30 0 0 0 //Medium Heal
+14  3 0  30 0 0 0 //Large Healing
+14  3 0  255 0 0 0 //Large Healing
+14  4 0  30 0 0 0 //Small Mana
+14  5 0  30 0 0 0 //Medium Mana
+14  6 0  30 0 0 0 //Large Mana
+14  6 0  255 0 0 0 //Large Mana
+//
+14 10 0   0 0 0 0 //Town Scroll
+14  9 0   0 0 0 0 //Alcohol
+14  9 1   0 0 0 0 //Olive of Love
+14 20 0   0 0 0 0 //Love Charm
+//
+4 15 13 255 0 0 1 //Arrows
+4  7 13 255 0 0 1 //Bolts+6
+13  1 0 255 0 0 0 //Imp-Satan
+13  2 0 255 0 0 0 //Horn of Uniria
+//
+13  9 1  51 0 0 1 //Ring of Poison
+13  8 1  51 0 0 1 //Ring of Ice
+13 21 1  51 0 0 1 //Ring of Fire
+13 24 1  51 0 0 1 //Ring of Magic
+13 12 1  51 0 0 1 //Pendant of Lightning
+
+13  0 0 255 0 0 0 //Guardian Angel
+//
+//13 29 0 0   0 0 0 //Armor of Guardman
+end

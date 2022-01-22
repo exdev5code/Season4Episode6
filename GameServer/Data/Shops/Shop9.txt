@@ -1,0 +1,30 @@
+//shop9 - [Noria] Weapon Shop
+//
+4  0 0    0 1 1 0 //Short Bow
+4  1 0    0 1 1 0 //Bow
+4  8 0    0 1 1 0 //Crossbow
+4  9 0    0 1 1 0 //Golden Crossbow
+
+4 11 0    0 1 1 0 //Crossbow of Light
+4 12 0    0 1 1 0 //Serpent Crossbow
+4  2 0    0 1 1 0 //Elven Bow
+4  3 0    0 1 1 0 //Battle Bow
+
+4 13 0    0 1 1 0 //Blue Wing Crossbow
+4 14 0    0 1 1 0 //Aqua Gold Crossbow
+4  4 0    0 1 1 0 //Tiger Bow
+4  5 0    0 1 1 0 //Silver Bow
+6  3 0    0 1 1 0 //Elven Shield
+6  3 0    0 1 1 0 //Elven Shield
+
+4 15 13  255 0 0 0 //Arrows+6
+4  7 13  255 0 0 0 //Bolts+6
+
+1   4 0  42 0 1 0 //Elven Axe
+1   4 0  42 0 1 0 //Elven Axe
+2   7 0  53 0 1 0 //Elemental Mace
+2   7 0  58 0 1 0 //Elemental Mace
+6  16 0  58 0 1 0 //Elemental Shield
+6  16 0  58 0 1 0 //Elemental Shield
+0   0 0  58 1 1 0 //Kris
+end

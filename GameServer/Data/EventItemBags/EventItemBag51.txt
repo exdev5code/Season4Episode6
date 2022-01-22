@@ -1,0 +1,74 @@
+//Cherry Blossom Box
+
+//============================
+//Map Drop
+//Map	Drop	MinDrop	MaxDrop
+//============================
+0
+0	0	0	1000	//Lorencia
+1	0	0	1000	//Dungeon
+2	0	0	1000	//Devias
+3	0	0	1000	//Noria
+4	0	0	1000	//LostTower
+5	0	0	1000	//Exile
+6	0	0	1000	//Arena
+7	0	0	1000	//Atlans
+8	0	0	1000	//Tarkan
+9	0	0	1000	//DevilSquare
+10	0	0	1000	//Icarus
+end
+
+//=========================================================================
+//Drop Options
+//Name			ZenAmount	ItemType	Index	ItemLvl	DropRate NormDrop	ExcDrop
+//=========================================================================
+1
+"Cherry Blossom Box"	1000000		0	0	 0	 0	 100	  	1
+end
+
+//==================================================================
+//Item Drops
+//Type	Item	MinLvl	MaxLvl	Skill	Luck	Option	Exc	Name
+//==================================================================
+2
+10000
+//=========
+//7 ранг вещей
+//=========
+0	24	0	0	1	1	1	1	//Daybreak
+0	21	0	0	1	1	1	1	//Dark Reign Blade
+5	13	0	0	0	1	1	1	//Platina Staff
+5	19	0	0	0	1	1	1	//Aura Stick
+2	15	0	0	1	1	1	1	//Shining Scepter
+4	22	0	0	1	1	1	1	//Albatross Bow
+7	21	0	0	0	1	1	1	//Great Dragon
+7	22	0	0	0	1	1	1	//Dark Soul
+7	24	0	0	0	1	1	1	//Red Spirit
+7	43	0	0	0	1	1	1	//Aura
+7	28	0	0	0	1	1	1	//Dark Master
+8	21	0	0	0	1	1	1	//Great Dragon
+8	22	0	0	0	1	1	1	//Dark Soul
+8	24	0	0	0	1	1	1	//Red Spirit
+8	43	0	0	0	1	1	1	//Aura
+8	23	0	0	0	1	1	1	//Hurricane MG
+8	28	0	0	0	1	1	1	//Dark Master
+9	21	0	0	0	1	1	1	//Great Dragon
+9	22	0	0	0	1	1	1	//Dark Soul
+9	24	0	0	0	1	1	1	//Red Spirit
+9	43	0	0	0	1	1	1	//Aura
+9	23	0	0	0	1	1	1	//Hurricane MG
+9	28	0	0	0	1	1	1	//Dark Master
+10	21	0	0	0	1	1	1	//Great Dragon
+10	22	0	0	0	1	1	1	//Dark Soul
+10	24	0	0	0	1	1	1	//Red Spirit
+10	43	0	0	0	1	1	1	//Aura
+10	23	0	0	0	1	1	1	//Hurricane MG
+10	28	0	0	0	1	1	1	//Dark Master
+11	21	0	0	0	1	1	1	//Great Dragon
+11	22	0	0	0	1	1	1	//Dark Soul
+11	24	0	0	0	1	1	1	//Red Spirit
+11	43	0	0	0	1	1	1	//Aura
+11	23	0	0	0	1	1	1	//Hurricane MG
+11	28	0	0	0	1	1	1	//Dark Master
+end
+end

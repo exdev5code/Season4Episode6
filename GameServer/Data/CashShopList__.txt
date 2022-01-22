@@ -1,0 +1,44 @@
+//---------------------------------------------------------------------------------------//
+//     Index  ItemID   Level  Skill    Luck    Opt    ExcOpt    X       Y      Scale     //
+//---------------------------------------------------------------------------------------//
+1
+	14	53	0	0	0	0	0	0	0	50   // Talisman of Luck
+	14	96	0	0	0	0	0	0	0	50   // Talisman of Chaos Assembly
+	14	54	0	0	0	0	0	0	0	50   // Chaos Card
+	14	92	0	0	0	0	0	0	0	50   // Chaos Card Gold
+	14	93	0	0	0	0	0	0	0	50   // Chaos Card Rare
+	14	95	0	0	0	0	0	0	0	50   // Chaos Card Mini
+	13	43	0	0	0	0	0	0	0	50   // Seal of Ascension
+	13	44	0	0	0	0	0	0	0	50   // Seal of Wealth
+	13	45	0	0	0	0	0	0	0	50   // Seal of Sustenance
+	13	59	0	0	0	0	0	0	0	50   // Seal of Mobility
+	13	62	0	0	0	0	0	0	0	50   // Seal of Healing
+	13	63	0	0	0	0	0	0	0	50   // Seal of Divinity
+	13	46	0	0	0	0	0	0	0	50   // Devil Square Ticket
+	13	47	0	0	0	0	0	0	0	50   // Blood Castle Ticket
+	13	48	0	0	0	0	0	0	0	50   // Kalima Ticket
+	13	61	0	0	0	0	0	0	0	50   // Illusion Temple Ticket
+	14	72	0	0	0	0	0	0	0	50   // Scroll of Quickness
+	14	73	0	0	0	0	0	0	0	50   // Scroll of Protection
+	14	74	0	0	0	0	0	0	0	50   // Scroll of Wrath
+	14	75	0	0	0	0	0	0	0	50   // Scroll of Wizardry
+	14	76	0	0	0	0	0	0	0	50   // Scroll of Health
+	14	77	0	0	0	0	0	0	0	50   // Scroll of Mana
+	14	97	0	0	0	0	0	0	0	50   // Scroll of Battle
+	14	98	0	0	0	0	0	0	0	50   // Scroll of Strengthener
+	14	78	0	0	0	0	0	0	0	50   // Leap of Strength
+	14	79	0	0	0	0	0	0	0	50   // Leap of Quickness
+	14	80	0	0	0	0	0	0	0	50   // Leap of Health
+	14	81	0	0	0	0	0	0	0	50   // Leap of Energy
+	14	82	0	0	0	0	0	0	0	50   // Leap of Control
+	13	64	0	0	0	0	0	0	0	50   // Demon
+	13	65	0	0	0	0	0	0	0	50   // Spirit of Guardian
+	13	54	0	0	0	0	0	0	0	50   // Reset Fruit Strength
+	13	55	0	0	0	0	0	0	0	50   // Reset Fruit Quickness
+	13	56	0	0	0	0	0	0	0	50   // Reset Fruit Health
+	13	57	0	0	0	0	0	0	0	50   // Reset Fruit Energy
+	13	58	0	0	0	0	0	0	0	50   // Reset Fruit Control
+	14	91	0	0	0	0	0	0	0	50   // Summoner Card
+	13	80	0	0	0	0	0	0	0	50   // Demon
+	14	183	0	0	0	0	0	0	0	50   // WCoin
+end

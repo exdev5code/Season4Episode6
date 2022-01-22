@@ -1,0 +1,160 @@
+//------------------------------------------------------------------------------------//
+// Normal Table									      //
+//										      //
+//     Index   Type   Amount   UseTime Category UseType BuyType Campaign Price        //
+//------------------------------------------------------------------------------------//
+
+	13	43	0	60	 	0	 1	  1	  0	 10	// Seal of Ascension 1 Day
+	13	43	0	360	 	0	 1	  1	  1	 50	// Seal of Ascension 7 Days
+	13	43	0	1440	0	 1	  1	  0	 200	// Seal of Ascension 30 Days
+	13	44	0	60		0	 1	  1	  0	 10	// Seal of Wealth 1 Day
+	13	44	0	360		0	 1	  1	  1	 50	// Seal of Wealth 7 Days
+	13	44	0	1440	0	 1	  1	  0	 200	// Seal of Wealth 30 Days
+	13	45	0	60	 	0	 1	  1	  0	 10	// Seal of Sustenance 1 Day
+	13	45	0	360		0	 1	  1	  1	 50	// Seal of Sustenance 7 Days
+	13	45	0	1440	0	 1	  1	  0	 200	// Seal of Sustenance 30 Days
+	13	62	0	60	 	0	 1	  1	  0	 15	// Seal of Healing 1 Day
+	13	62	0	360		0	 1	  1	  0	 60	// Seal of Healing 1 Day
+	13	62	0	1440	0	 1	  1	  0	 210	// Seal of Healing 1 Day
+	13	63	0	60		0	 1	  1	  0	 10	// Seal of Divinity 1 Day
+	7	3	0	0		0	 1	  1	  0	 0	// Seal of Divinity 1 Day
+
+	14	97	1	 60	 	0	 0	  0	  0	 10	// Scroll of Battle 1 Day
+	14	97	1	 360	 	0	 0	  0	  0	 50	// Scroll of Battle 1 Day
+	14	97	1	 1440	0	 0	  0	  0	 200	// Scroll of Battle 1 Day
+
+	14	74	1	 60	 	0	 0	  0	  0	 10	// Scroll of Wrath 1 Day
+	14	74	1	 360	 	0	 0	  0	  0	 50	// Scroll of Wrath 1 Day
+	14	74	1	 1440	0	 0	  0	  0	 200	// Scroll of Wrath 1 Day
+
+	14	98	1	 60	 	0	0	  0	  0	 10	// Scroll of Strengthener 1 Day
+	14	98	1	 360	 	0	0	  0	  0	 50	// Scroll of Strengthener 1 Day
+	14	98	1	 1440	0	0	  0	  0	 200	// Scroll of Strengthener 1 Day
+
+	14	73	1	 60	 	0	  0	  0	  2	 10	// Scroll of Defense 1 Day
+	14	73	1	 360	 	0	  0	  0	  2	 50	// Scroll of Defense 1 Day
+	14	73	1	 1440	0	  0	  0	  2	 200	// Scroll of Defense 1 Day
+
+	14	75	1	 60	 	0	  0	  0	  0	 10	// Scroll of Wizardry 1 Day
+	14	75	1	 360	 	0	  0	  0	  0	 50	// Scroll of Wizardry 1 Day
+	14	75	1	 1440	0	  0	  0	  0	 200	// Scroll of Wizardry 1 Day
+
+	14	77	1	 60	 	0	  0	  0	  0	 10	// Scroll of Mana 1 Day
+	14	77	1	 360	 	0	  0	  0	  0	 50	// Scroll of Mana 1 Day
+	14	77	1	 1440	0	  0	  0	  0	 200	// Scroll of Mana 1 Day
+
+	14	76	1	 50	 	0	  0	  0	  0	 10	// Scroll of Health 1 Day
+	14	76	1	 360	 	0	  0	  0	  0	 50	// Scroll of Health 1 Day
+	14	76	1	 1440	0	  0	  0	  0	 200	// Scroll of Health 1 Day
+
+	14	78	1	 1080	0	  0	  0	  3	 1000	// Leap of Strength 10 Days
+	14	79	1	 1080	0	  0	  0	  3	 1000	// Leap of Health 10 Days
+	14	80	1	 1080	0	  0	  0	  3	 1000	// Leap of Health 10 Days
+	14	81	1	 1080	0	  0	  0	  3	 1000	// Leap of Energy 10 Days
+	14	82	1	 1080	0	  0	  0	  3	 1000	// Leap of Control 10 Days
+
+	13	64	1	 0	 	0	  0	  0	  0	 3	// Demon
+	13	65	1	 0	 	0	  0	  0	  0	 2	// Spirit of Guardian
+	14	53	1	 0	 	0	  0	  0	  1	 10	// Talisman of Luck 1%
+	14	96	1	 0	 	0	  0	  0	  0	 30	// Talisman of Chaos Assembly
+	13	59	1	 0	 	0	  0	  0	  0	 30	// Seal of Mobility
+
+	13	46	1	 0	 	0	  0	  0	  0	 10	// Devil Square Ticket 1 Time
+	13	46	10	 0	 	0	  0	  0	  3	 90	// Devil Square Ticket 10 Times
+	13	47	1	 0	 	0	  0	  0	  0	 10	// Blood Castle Ticket 1 Time
+	13	47	10	 0	 	0	  0	  0	  3	 90	// Blood Castle Ticket 10 Times
+	13	48	1	 0	 	0	  0	  0	  0	 10	// Kalima Ticket 1 Time
+	13	48	10	 0	 	0	  0	  0	  3	 90	// Kalima Ticket 10 Times
+	13	61	1	 0	 	0	  0	  0	  0	 10	// Illusion Temple Ticket 1 Time
+	13	61	10	 0	 	0	  0	  0	  3	 90	// Illusion Temple Ticket 10 Times
+
+//------------------------------------------------------------------------------------//
+// Potion Table									      //
+//										      //
+//     Index   Type   Amount   UseTime Category UseType BuyType Campaign Price        //
+//------------------------------------------------------------------------------------//
+	13	46	1	0		1	  0	  0	  0	 10	// Item
+
+
+
+//------------------------------------------------------------------------------------//
+// Accessory Table								      //
+//										      //
+//     Index   Type   Amount   UseTime Category UseType BuyType Campaign Price        //
+//------------------------------------------------------------------------------------//
+	13	46	1	0		2	  0	  0	  0	 10	// Item
+
+
+
+//------------------------------------------------------------------------------------//
+// Special Table								      //
+//										      //
+//     Index   Type   Amount   UseTime Category UseType BuyType Campaign Price        //
+//------------------------------------------------------------------------------------//
+	13	46	1	0		3	  0	  0	  0	 10	// Item
+
+//------------------------------------------------------------------------------------//
+// Special Table								      //
+//										      //
+//     Index   Type   Amount   UseTime Category UseType BuyType Campaign Price        //
+//------------------------------------------------------------------------------------//
+	13	46	1	0		4	  0	  0	  0	 10	// Item
+
+//------------------------------------------------------------------------------------//
+// Special Table								      //
+//										      //
+//     Index   Type   Amount   UseTime Category UseType BuyType Campaign Price        //
+//------------------------------------------------------------------------------------//
+	13	46	1	0		5	  0	  0	  0	 10	// Item
+
+//------------------------------------------------------------------------------------//
+// Special Table								      //
+//										      //
+//     Index   Type   Amount   UseTime Category UseType BuyType Campaign Price        //
+//------------------------------------------------------------------------------------//
+	13	46	1	0		6	  0	  0	  0	 10	// Item
+
+//------------------------------------------------------------------------------------//
+// Special Table								      //
+//										      //
+//     Index   Type   Amount   UseTime Category UseType BuyType Campaign Price        //
+//------------------------------------------------------------------------------------//
+	13	46	1	0		7	  0	  0	  0	 10	// Item
+	
+//------------------------------------------------------------------------------------//
+// Special Table								      //
+//										      //
+//     Index   Type   Amount   UseTime Category UseType BuyType Campaign Price        //
+//------------------------------------------------------------------------------------//
+	13	46	1	0		8	  0	  0	  0	 10	// Item
+	
+//------------------------------------------------------------------------------------//
+// Special Table								      //
+//										      //
+//     Index   Type   Amount   UseTime Category UseType BuyType Campaign Price        //
+//------------------------------------------------------------------------------------//
+	13	46	1	0		9	  0	  0	  0	 10	// Item
+
+
+//------------------------------------------------------------------------------------//
+// Special Table								      //
+//										      //
+//     Index   Type   Amount   UseTime Category UseType BuyType Campaign Price        //
+//------------------------------------------------------------------------------------//
+	13	46	1	0		10	  0	  0	  0	 10	// Item
+
+
+//------------------------------------------------------------------------------------//
+// Special Table								      //
+//										      //
+//     Index   Type   Amount   UseTime Category UseType BuyType Campaign Price        //
+//------------------------------------------------------------------------------------//
+	13	46	1	0		11	  0	  0	  0	 10	// Item
+	
+//------------------------------------------------------------------------------------//
+// Special Table								      //
+//										      //
+//     Index   Type   Amount   UseTime Category UseType BuyType Campaign Price        //
+//------------------------------------------------------------------------------------//
+	13	46	1	0		12	  0	  0	  0	 10	// Item
+
